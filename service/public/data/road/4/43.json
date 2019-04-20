@@ -1,0 +1,7642 @@
+{
+    "0": {
+       "Road Number": 43,
+       "Start Point": "ត្រែងត្រយឹង(ផជ៤)",
+       "End Point": "ទ្វារថ្មី",
+       "X": 104.2870026,
+       "Y": 10.7159004,
+       "Length_m": 100,
+       "PK": "076+250",
+       "Province": "កំពត"
+    },
+    "1": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2139969,
+       "Y": 11.2776003,
+       "Length_m": 100,
+       "PK": "000+050",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "2": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2149963,
+       "Y": 11.2774,
+       "Length_m": 100,
+       "PK": "000+150",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "3": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2160034,
+       "Y": 11.2771997,
+       "Length_m": 100,
+       "PK": "000+250",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "4": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2160034,
+       "Y": 11.2770004,
+       "Length_m": 100,
+       "PK": "000+350",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "5": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2170029,
+       "Y": 11.2768002,
+       "Length_m": 100,
+       "PK": "000+450",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "6": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2180023,
+       "Y": 11.2765999,
+       "Length_m": 100,
+       "PK": "000+550",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "7": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2190018,
+       "Y": 11.2763996,
+       "Length_m": 100,
+       "PK": "000+650",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "8": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2200012,
+       "Y": 11.2763004,
+       "Length_m": 100,
+       "PK": "000+750",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "9": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2210007,
+       "Y": 11.2761002,
+       "Length_m": 100,
+       "PK": "000+850",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "10": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2220001,
+       "Y": 11.276,
+       "Length_m": 100,
+       "PK": "000+950",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "11": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2229996,
+       "Y": 11.2757998,
+       "Length_m": 100,
+       "PK": "001+050",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "12": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.223999,
+       "Y": 11.2756004,
+       "Length_m": 100,
+       "PK": "001+150",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "13": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2249985,
+       "Y": 11.2755003,
+       "Length_m": 100,
+       "PK": "001+250",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "14": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2249985,
+       "Y": 11.2753,
+       "Length_m": 100,
+       "PK": "001+350",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "15": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2259979,
+       "Y": 11.2750998,
+       "Length_m": 100,
+       "PK": "001+450",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "16": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2269974,
+       "Y": 11.2749004,
+       "Length_m": 100,
+       "PK": "001+550",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "17": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2279968,
+       "Y": 11.2747002,
+       "Length_m": 100,
+       "PK": "001+650",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "18": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2289963,
+       "Y": 11.2742996,
+       "Length_m": 100,
+       "PK": "001+750",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "19": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2300034,
+       "Y": 11.2739,
+       "Length_m": 100,
+       "PK": "001+850",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "20": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2300034,
+       "Y": 11.2733002,
+       "Length_m": 100,
+       "PK": "001+950",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "21": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2310028,
+       "Y": 11.2727003,
+       "Length_m": 100,
+       "PK": "002+050",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "22": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2320023,
+       "Y": 11.2719002,
+       "Length_m": 100,
+       "PK": "002+150",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "23": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2320023,
+       "Y": 11.2711,
+       "Length_m": 100,
+       "PK": "002+250",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "24": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2320023,
+       "Y": 11.2702999,
+       "Length_m": 100,
+       "PK": "002+350",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "25": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2320023,
+       "Y": 11.2693996,
+       "Length_m": 100,
+       "PK": "002+450",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "26": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2330017,
+       "Y": 11.2685003,
+       "Length_m": 100,
+       "PK": "002+550",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "27": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2330017,
+       "Y": 11.2676001,
+       "Length_m": 100,
+       "PK": "002+650",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "28": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2330017,
+       "Y": 11.2666998,
+       "Length_m": 100,
+       "PK": "002+750",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "29": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2330017,
+       "Y": 11.2658005,
+       "Length_m": 100,
+       "PK": "002+850",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "30": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2330017,
+       "Y": 11.2649002,
+       "Length_m": 100,
+       "PK": "002+950",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "31": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2330017,
+       "Y": 11.2639999,
+       "Length_m": 100,
+       "PK": "003+050",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "32": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2330017,
+       "Y": 11.2630997,
+       "Length_m": 100,
+       "PK": "003+150",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "33": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2330017,
+       "Y": 11.2622004,
+       "Length_m": 100,
+       "PK": "003+250",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "34": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2330017,
+       "Y": 11.2613001,
+       "Length_m": 100,
+       "PK": "003+350",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "35": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2330017,
+       "Y": 11.2603998,
+       "Length_m": 100,
+       "PK": "003+450",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "36": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2330017,
+       "Y": 11.2594995,
+       "Length_m": 100,
+       "PK": "003+550",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "37": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2330017,
+       "Y": 11.2586002,
+       "Length_m": 100,
+       "PK": "003+650",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "38": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2340012,
+       "Y": 11.2577,
+       "Length_m": 100,
+       "PK": "003+750",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "39": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2340012,
+       "Y": 11.2567997,
+       "Length_m": 100,
+       "PK": "003+850",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "40": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2340012,
+       "Y": 11.2559004,
+       "Length_m": 100,
+       "PK": "003+950",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "41": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2340012,
+       "Y": 11.2550001,
+       "Length_m": 100,
+       "PK": "004+050",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "42": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2340012,
+       "Y": 11.2540998,
+       "Length_m": 100,
+       "PK": "004+150",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "43": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2340012,
+       "Y": 11.2531996,
+       "Length_m": 100,
+       "PK": "004+250",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "44": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2340012,
+       "Y": 11.2523003,
+       "Length_m": 100,
+       "PK": "004+350",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "45": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2340012,
+       "Y": 11.2514,
+       "Length_m": 100,
+       "PK": "004+450",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "46": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2350006,
+       "Y": 11.2504997,
+       "Length_m": 100,
+       "PK": "004+550",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "47": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2350006,
+       "Y": 11.2496004,
+       "Length_m": 100,
+       "PK": "004+650",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "48": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2350006,
+       "Y": 11.2487001,
+       "Length_m": 100,
+       "PK": "004+750",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "49": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2350006,
+       "Y": 11.2477999,
+       "Length_m": 100,
+       "PK": "004+850",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "50": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2350006,
+       "Y": 11.2468996,
+       "Length_m": 100,
+       "PK": "004+950",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "51": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2350006,
+       "Y": 11.2460003,
+       "Length_m": 100,
+       "PK": "005+050",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "52": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2350006,
+       "Y": 11.2451,
+       "Length_m": 100,
+       "PK": "005+150",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "53": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2350006,
+       "Y": 11.2441998,
+       "Length_m": 100,
+       "PK": "005+250",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "54": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2350006,
+       "Y": 11.2433004,
+       "Length_m": 100,
+       "PK": "005+350",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "55": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2350006,
+       "Y": 11.2424002,
+       "Length_m": 100,
+       "PK": "005+450",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "56": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2350006,
+       "Y": 11.2414999,
+       "Length_m": 100,
+       "PK": "005+550",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "57": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2360001,
+       "Y": 11.2405996,
+       "Length_m": 100,
+       "PK": "005+650",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "58": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2360001,
+       "Y": 11.2397003,
+       "Length_m": 100,
+       "PK": "005+750",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "59": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2360001,
+       "Y": 11.2388,
+       "Length_m": 100,
+       "PK": "005+850",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "60": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2360001,
+       "Y": 11.2378998,
+       "Length_m": 100,
+       "PK": "005+950",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "61": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2360001,
+       "Y": 11.2370005,
+       "Length_m": 100,
+       "PK": "006+050",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "62": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2360001,
+       "Y": 11.2361002,
+       "Length_m": 100,
+       "PK": "006+150",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "63": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2360001,
+       "Y": 11.2351999,
+       "Length_m": 100,
+       "PK": "006+250",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "64": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2360001,
+       "Y": 11.2342997,
+       "Length_m": 100,
+       "PK": "006+350",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "65": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2360001,
+       "Y": 11.2334003,
+       "Length_m": 100,
+       "PK": "006+450",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "66": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2369995,
+       "Y": 11.2325001,
+       "Length_m": 100,
+       "PK": "006+550",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "67": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2369995,
+       "Y": 11.2315998,
+       "Length_m": 100,
+       "PK": "006+650",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "68": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2369995,
+       "Y": 11.2306995,
+       "Length_m": 100,
+       "PK": "006+750",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "69": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2369995,
+       "Y": 11.2298002,
+       "Length_m": 100,
+       "PK": "006+850",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "70": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2369995,
+       "Y": 11.2289,
+       "Length_m": 100,
+       "PK": "006+950",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "71": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2369995,
+       "Y": 11.2279997,
+       "Length_m": 100,
+       "PK": "007+050",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "72": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2369995,
+       "Y": 11.2271004,
+       "Length_m": 100,
+       "PK": "007+150",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "73": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2369995,
+       "Y": 11.2262001,
+       "Length_m": 100,
+       "PK": "007+250",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "74": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2369995,
+       "Y": 11.2254,
+       "Length_m": 100,
+       "PK": "007+350",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "75": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.237999,
+       "Y": 11.2244997,
+       "Length_m": 100,
+       "PK": "007+450",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "76": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.237999,
+       "Y": 11.2236004,
+       "Length_m": 100,
+       "PK": "007+550",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "77": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.237999,
+       "Y": 11.2227001,
+       "Length_m": 100,
+       "PK": "007+650",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "78": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.237999,
+       "Y": 11.2219,
+       "Length_m": 100,
+       "PK": "007+750",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "79": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2389984,
+       "Y": 11.2209997,
+       "Length_m": 100,
+       "PK": "007+850",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "80": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2389984,
+       "Y": 11.2201004,
+       "Length_m": 100,
+       "PK": "007+950",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "81": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2389984,
+       "Y": 11.2193003,
+       "Length_m": 100,
+       "PK": "008+050",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "82": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2389984,
+       "Y": 11.2184,
+       "Length_m": 100,
+       "PK": "008+150",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "83": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2399979,
+       "Y": 11.2174997,
+       "Length_m": 100,
+       "PK": "008+250",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "84": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2399979,
+       "Y": 11.2166004,
+       "Length_m": 100,
+       "PK": "008+350",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "85": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2399979,
+       "Y": 11.2157001,
+       "Length_m": 100,
+       "PK": "008+450",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "86": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2399979,
+       "Y": 11.2147999,
+       "Length_m": 100,
+       "PK": "008+550",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "87": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2399979,
+       "Y": 11.2138996,
+       "Length_m": 100,
+       "PK": "008+650",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "88": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2399979,
+       "Y": 11.2130003,
+       "Length_m": 100,
+       "PK": "008+750",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "89": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2399979,
+       "Y": 11.2121,
+       "Length_m": 100,
+       "PK": "008+850",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "90": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2399979,
+       "Y": 11.2111998,
+       "Length_m": 100,
+       "PK": "008+950",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "91": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2399979,
+       "Y": 11.2103004,
+       "Length_m": 100,
+       "PK": "009+050",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "92": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2399979,
+       "Y": 11.2094002,
+       "Length_m": 100,
+       "PK": "009+150",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "93": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2399979,
+       "Y": 11.2084999,
+       "Length_m": 100,
+       "PK": "009+250",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "94": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2399979,
+       "Y": 11.2075996,
+       "Length_m": 100,
+       "PK": "009+350",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "95": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2399979,
+       "Y": 11.2067003,
+       "Length_m": 100,
+       "PK": "009+450",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "96": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2389984,
+       "Y": 11.2058001,
+       "Length_m": 100,
+       "PK": "009+550",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "97": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2389984,
+       "Y": 11.2048998,
+       "Length_m": 100,
+       "PK": "009+650",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "98": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2389984,
+       "Y": 11.2040005,
+       "Length_m": 100,
+       "PK": "009+750",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "99": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2389984,
+       "Y": 11.2031002,
+       "Length_m": 100,
+       "PK": "009+850",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "100": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2399979,
+       "Y": 11.2021999,
+       "Length_m": 100,
+       "PK": "009+950",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "101": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2399979,
+       "Y": 11.2012997,
+       "Length_m": 100,
+       "PK": "010+050",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "102": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2399979,
+       "Y": 11.2004004,
+       "Length_m": 100,
+       "PK": "010+150",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "103": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2399979,
+       "Y": 11.1995001,
+       "Length_m": 100,
+       "PK": "010+250",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "104": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2399979,
+       "Y": 11.1985998,
+       "Length_m": 100,
+       "PK": "010+350",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "105": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2399979,
+       "Y": 11.1976995,
+       "Length_m": 100,
+       "PK": "010+450",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "106": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2399979,
+       "Y": 11.1967001,
+       "Length_m": 100,
+       "PK": "010+550",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "107": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2399979,
+       "Y": 11.1957998,
+       "Length_m": 100,
+       "PK": "010+650",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "108": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2399979,
+       "Y": 11.1948996,
+       "Length_m": 100,
+       "PK": "010+750",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "109": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2399979,
+       "Y": 11.1940002,
+       "Length_m": 100,
+       "PK": "010+850",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "110": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2399979,
+       "Y": 11.1931,
+       "Length_m": 100,
+       "PK": "010+950",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "111": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2399979,
+       "Y": 11.1921997,
+       "Length_m": 100,
+       "PK": "011+050",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "112": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2389984,
+       "Y": 11.1913004,
+       "Length_m": 100,
+       "PK": "011+150",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "113": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2389984,
+       "Y": 11.1904001,
+       "Length_m": 100,
+       "PK": "011+250",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "114": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2389984,
+       "Y": 11.1894999,
+       "Length_m": 100,
+       "PK": "011+350",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "115": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2389984,
+       "Y": 11.1885996,
+       "Length_m": 100,
+       "PK": "011+450",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "116": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2389984,
+       "Y": 11.1877003,
+       "Length_m": 100,
+       "PK": "011+550",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "117": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2389984,
+       "Y": 11.1868,
+       "Length_m": 100,
+       "PK": "011+650",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "118": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2389984,
+       "Y": 11.1858997,
+       "Length_m": 100,
+       "PK": "011+750",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "119": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2389984,
+       "Y": 11.1850004,
+       "Length_m": 100,
+       "PK": "011+850",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "120": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2389984,
+       "Y": 11.1841002,
+       "Length_m": 100,
+       "PK": "011+950",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "121": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2389984,
+       "Y": 11.1831999,
+       "Length_m": 100,
+       "PK": "012+050",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "122": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2389984,
+       "Y": 11.1822996,
+       "Length_m": 100,
+       "PK": "012+150",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "123": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2389984,
+       "Y": 11.1814003,
+       "Length_m": 100,
+       "PK": "012+250",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "124": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2389984,
+       "Y": 11.1805,
+       "Length_m": 100,
+       "PK": "012+350",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "125": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2389984,
+       "Y": 11.1795998,
+       "Length_m": 100,
+       "PK": "012+450",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "126": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2389984,
+       "Y": 11.1787004,
+       "Length_m": 100,
+       "PK": "012+550",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "127": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2389984,
+       "Y": 11.1778002,
+       "Length_m": 100,
+       "PK": "012+650",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "128": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2389984,
+       "Y": 11.1768999,
+       "Length_m": 100,
+       "PK": "012+750",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "129": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2389984,
+       "Y": 11.1759996,
+       "Length_m": 100,
+       "PK": "012+850",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "130": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2389984,
+       "Y": 11.1751003,
+       "Length_m": 100,
+       "PK": "012+950",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "131": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2389984,
+       "Y": 11.1742001,
+       "Length_m": 100,
+       "PK": "013+050",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "132": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2389984,
+       "Y": 11.1731997,
+       "Length_m": 100,
+       "PK": "013+150",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "133": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2389984,
+       "Y": 11.1723003,
+       "Length_m": 100,
+       "PK": "013+250",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "134": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2389984,
+       "Y": 11.1714001,
+       "Length_m": 100,
+       "PK": "013+350",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "135": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2389984,
+       "Y": 11.1705999,
+       "Length_m": 100,
+       "PK": "013+450",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "136": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2389984,
+       "Y": 11.1696997,
+       "Length_m": 100,
+       "PK": "013+550",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "137": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2389984,
+       "Y": 11.1688004,
+       "Length_m": 100,
+       "PK": "013+650",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "138": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.237999,
+       "Y": 11.1680002,
+       "Length_m": 100,
+       "PK": "013+750",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "139": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.237999,
+       "Y": 11.1671,
+       "Length_m": 100,
+       "PK": "013+850",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "140": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.237999,
+       "Y": 11.1662998,
+       "Length_m": 100,
+       "PK": "013+950",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "141": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.237999,
+       "Y": 11.1653996,
+       "Length_m": 100,
+       "PK": "014+050",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "142": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2369995,
+       "Y": 11.1646004,
+       "Length_m": 100,
+       "PK": "014+150",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "143": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2369995,
+       "Y": 11.1637001,
+       "Length_m": 100,
+       "PK": "014+250",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "144": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2369995,
+       "Y": 11.1629,
+       "Length_m": 100,
+       "PK": "014+350",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "145": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2360001,
+       "Y": 11.1620998,
+       "Length_m": 100,
+       "PK": "014+450",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "146": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2360001,
+       "Y": 11.1611996,
+       "Length_m": 100,
+       "PK": "014+550",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "147": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2360001,
+       "Y": 11.1604004,
+       "Length_m": 100,
+       "PK": "014+650",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "148": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2350006,
+       "Y": 11.1595001,
+       "Length_m": 100,
+       "PK": "014+750",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "149": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2350006,
+       "Y": 11.1587,
+       "Length_m": 100,
+       "PK": "014+850",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "150": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2350006,
+       "Y": 11.1577997,
+       "Length_m": 100,
+       "PK": "014+950",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "151": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2340012,
+       "Y": 11.1569996,
+       "Length_m": 100,
+       "PK": "015+050",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "152": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2340012,
+       "Y": 11.1561003,
+       "Length_m": 100,
+       "PK": "015+150",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "153": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2340012,
+       "Y": 11.1553001,
+       "Length_m": 100,
+       "PK": "015+250",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "154": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2330017,
+       "Y": 11.1543999,
+       "Length_m": 100,
+       "PK": "015+350",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "155": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2330017,
+       "Y": 11.1535997,
+       "Length_m": 100,
+       "PK": "015+450",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "156": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2330017,
+       "Y": 11.1527004,
+       "Length_m": 100,
+       "PK": "015+550",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "157": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2320023,
+       "Y": 11.1519003,
+       "Length_m": 100,
+       "PK": "015+650",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "158": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2320023,
+       "Y": 11.1511002,
+       "Length_m": 100,
+       "PK": "015+750",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "159": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2320023,
+       "Y": 11.1501999,
+       "Length_m": 100,
+       "PK": "015+850",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "160": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2310028,
+       "Y": 11.1493998,
+       "Length_m": 100,
+       "PK": "015+950",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "161": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2310028,
+       "Y": 11.1485004,
+       "Length_m": 100,
+       "PK": "016+050",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "162": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2310028,
+       "Y": 11.1477003,
+       "Length_m": 100,
+       "PK": "016+150",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "163": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2300034,
+       "Y": 11.1469002,
+       "Length_m": 100,
+       "PK": "016+250",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "164": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2300034,
+       "Y": 11.1462002,
+       "Length_m": 100,
+       "PK": "016+350",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "165": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2289963,
+       "Y": 11.1455002,
+       "Length_m": 100,
+       "PK": "016+450",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "166": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2289963,
+       "Y": 11.1448002,
+       "Length_m": 100,
+       "PK": "016+550",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "167": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2279968,
+       "Y": 11.1440001,
+       "Length_m": 100,
+       "PK": "016+650",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "168": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2279968,
+       "Y": 11.1433001,
+       "Length_m": 100,
+       "PK": "016+750",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "169": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2269974,
+       "Y": 11.1426001,
+       "Length_m": 100,
+       "PK": "016+850",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "170": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2259979,
+       "Y": 11.1419001,
+       "Length_m": 100,
+       "PK": "016+950",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "171": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2259979,
+       "Y": 11.1412001,
+       "Length_m": 100,
+       "PK": "017+050",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "172": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2249985,
+       "Y": 11.1405001,
+       "Length_m": 100,
+       "PK": "017+150",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "173": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2249985,
+       "Y": 11.1396999,
+       "Length_m": 100,
+       "PK": "017+250",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "174": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.223999,
+       "Y": 11.1389999,
+       "Length_m": 100,
+       "PK": "017+350",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "175": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.223999,
+       "Y": 11.1382999,
+       "Length_m": 100,
+       "PK": "017+450",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "176": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2229996,
+       "Y": 11.1374998,
+       "Length_m": 100,
+       "PK": "017+550",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "177": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2229996,
+       "Y": 11.1367998,
+       "Length_m": 100,
+       "PK": "017+650",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "178": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2220001,
+       "Y": 11.1360998,
+       "Length_m": 100,
+       "PK": "017+750",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "179": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2220001,
+       "Y": 11.1351995,
+       "Length_m": 100,
+       "PK": "017+850",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "180": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2220001,
+       "Y": 11.1343002,
+       "Length_m": 100,
+       "PK": "017+950",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "181": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2220001,
+       "Y": 11.1335001,
+       "Length_m": 100,
+       "PK": "018+050",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "182": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2220001,
+       "Y": 11.1325998,
+       "Length_m": 100,
+       "PK": "018+150",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "183": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2220001,
+       "Y": 11.1316996,
+       "Length_m": 100,
+       "PK": "018+250",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "184": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2229996,
+       "Y": 11.1308002,
+       "Length_m": 100,
+       "PK": "018+350",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "185": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2229996,
+       "Y": 11.1299,
+       "Length_m": 100,
+       "PK": "018+450",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "186": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2229996,
+       "Y": 11.1290998,
+       "Length_m": 100,
+       "PK": "018+550",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "187": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2229996,
+       "Y": 11.1281996,
+       "Length_m": 100,
+       "PK": "018+650",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "188": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.223999,
+       "Y": 11.1273003,
+       "Length_m": 100,
+       "PK": "018+750",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "189": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.223999,
+       "Y": 11.1264,
+       "Length_m": 100,
+       "PK": "018+850",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "190": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.223999,
+       "Y": 11.1255999,
+       "Length_m": 100,
+       "PK": "018+950",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "191": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.223999,
+       "Y": 11.1246996,
+       "Length_m": 100,
+       "PK": "019+050",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "192": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2249985,
+       "Y": 11.1238003,
+       "Length_m": 100,
+       "PK": "019+150",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "193": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2249985,
+       "Y": 11.1229,
+       "Length_m": 100,
+       "PK": "019+250",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "194": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2249985,
+       "Y": 11.1219997,
+       "Length_m": 100,
+       "PK": "019+350",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "195": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2249985,
+       "Y": 11.1211996,
+       "Length_m": 100,
+       "PK": "019+450",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "196": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2249985,
+       "Y": 11.1203003,
+       "Length_m": 100,
+       "PK": "019+550",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "197": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2259979,
+       "Y": 11.1194,
+       "Length_m": 100,
+       "PK": "019+650",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "198": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2259979,
+       "Y": 11.1184998,
+       "Length_m": 100,
+       "PK": "019+750",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "199": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2259979,
+       "Y": 11.1176996,
+       "Length_m": 100,
+       "PK": "019+850",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "200": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2259979,
+       "Y": 11.1168003,
+       "Length_m": 100,
+       "PK": "019+950",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "201": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2269974,
+       "Y": 11.1159,
+       "Length_m": 100,
+       "PK": "020+050",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "202": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2269974,
+       "Y": 11.1149998,
+       "Length_m": 100,
+       "PK": "020+150",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "203": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2269974,
+       "Y": 11.1141996,
+       "Length_m": 100,
+       "PK": "020+250",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "204": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2269974,
+       "Y": 11.1133003,
+       "Length_m": 100,
+       "PK": "020+350",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "205": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2269974,
+       "Y": 11.1124001,
+       "Length_m": 100,
+       "PK": "020+450",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "206": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2279968,
+       "Y": 11.1114998,
+       "Length_m": 100,
+       "PK": "020+550",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "207": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2279968,
+       "Y": 11.1106005,
+       "Length_m": 100,
+       "PK": "020+650",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "208": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2279968,
+       "Y": 11.1098003,
+       "Length_m": 100,
+       "PK": "020+750",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "209": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2279968,
+       "Y": 11.1089001,
+       "Length_m": 100,
+       "PK": "020+850",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "210": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2289963,
+       "Y": 11.1079998,
+       "Length_m": 100,
+       "PK": "020+950",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "211": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2289963,
+       "Y": 11.1070995,
+       "Length_m": 100,
+       "PK": "021+050",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "212": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2289963,
+       "Y": 11.1063004,
+       "Length_m": 100,
+       "PK": "021+150",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "213": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2289963,
+       "Y": 11.1054001,
+       "Length_m": 100,
+       "PK": "021+250",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "214": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2289963,
+       "Y": 11.1044998,
+       "Length_m": 100,
+       "PK": "021+350",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "215": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2300034,
+       "Y": 11.1036997,
+       "Length_m": 100,
+       "PK": "021+450",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "216": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2300034,
+       "Y": 11.1028004,
+       "Length_m": 100,
+       "PK": "021+550",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "217": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2300034,
+       "Y": 11.1019001,
+       "Length_m": 100,
+       "PK": "021+650",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "218": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2300034,
+       "Y": 11.1009998,
+       "Length_m": 100,
+       "PK": "021+750",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "219": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2310028,
+       "Y": 11.1001997,
+       "Length_m": 100,
+       "PK": "021+850",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "220": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2310028,
+       "Y": 11.0993004,
+       "Length_m": 100,
+       "PK": "021+950",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "221": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2310028,
+       "Y": 11.0984001,
+       "Length_m": 100,
+       "PK": "022+050",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "222": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2310028,
+       "Y": 11.0974998,
+       "Length_m": 100,
+       "PK": "022+150",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "223": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2320023,
+       "Y": 11.0966997,
+       "Length_m": 100,
+       "PK": "022+250",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "224": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2320023,
+       "Y": 11.0958004,
+       "Length_m": 100,
+       "PK": "022+350",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "225": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2320023,
+       "Y": 11.0949001,
+       "Length_m": 100,
+       "PK": "022+450",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "226": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2320023,
+       "Y": 11.0941,
+       "Length_m": 100,
+       "PK": "022+550",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "227": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2330017,
+       "Y": 11.0931997,
+       "Length_m": 100,
+       "PK": "022+650",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "228": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2330017,
+       "Y": 11.0923004,
+       "Length_m": 100,
+       "PK": "022+750",
+       "Province": "កំពង់ស្ពឺ"
+    },
+    "229": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2330017,
+       "Y": 11.0914001,
+       "Length_m": 100,
+       "PK": "022+850",
+       "Province": "កំពត"
+    },
+    "230": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2330017,
+       "Y": 11.0904999,
+       "Length_m": 100,
+       "PK": "022+950",
+       "Province": "កំពត"
+    },
+    "231": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2330017,
+       "Y": 11.0896997,
+       "Length_m": 100,
+       "PK": "023+050",
+       "Province": "កំពត"
+    },
+    "232": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2340012,
+       "Y": 11.0888004,
+       "Length_m": 100,
+       "PK": "023+150",
+       "Province": "កំពត"
+    },
+    "233": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2340012,
+       "Y": 11.0879002,
+       "Length_m": 100,
+       "PK": "023+250",
+       "Province": "កំពត"
+    },
+    "234": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2340012,
+       "Y": 11.0869999,
+       "Length_m": 100,
+       "PK": "023+350",
+       "Province": "កំពត"
+    },
+    "235": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2340012,
+       "Y": 11.0861998,
+       "Length_m": 100,
+       "PK": "023+450",
+       "Province": "កំពត"
+    },
+    "236": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2350006,
+       "Y": 11.0853004,
+       "Length_m": 100,
+       "PK": "023+550",
+       "Province": "កំពត"
+    },
+    "237": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2350006,
+       "Y": 11.0845003,
+       "Length_m": 100,
+       "PK": "023+650",
+       "Province": "កំពត"
+    },
+    "238": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2360001,
+       "Y": 11.0837002,
+       "Length_m": 100,
+       "PK": "023+750",
+       "Province": "កំពត"
+    },
+    "239": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2360001,
+       "Y": 11.0830002,
+       "Length_m": 100,
+       "PK": "023+850",
+       "Province": "កំពត"
+    },
+    "240": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2369995,
+       "Y": 11.0823002,
+       "Length_m": 100,
+       "PK": "023+950",
+       "Province": "កំពត"
+    },
+    "241": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2369995,
+       "Y": 11.0815001,
+       "Length_m": 100,
+       "PK": "024+050",
+       "Province": "កំពត"
+    },
+    "242": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.237999,
+       "Y": 11.0808001,
+       "Length_m": 100,
+       "PK": "024+150",
+       "Province": "កំពត"
+    },
+    "243": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.237999,
+       "Y": 11.0801001,
+       "Length_m": 100,
+       "PK": "024+250",
+       "Province": "កំពត"
+    },
+    "244": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2389984,
+       "Y": 11.0794001,
+       "Length_m": 100,
+       "PK": "024+350",
+       "Province": "កំពត"
+    },
+    "245": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2389984,
+       "Y": 11.0787001,
+       "Length_m": 100,
+       "PK": "024+450",
+       "Province": "កំពត"
+    },
+    "246": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2399979,
+       "Y": 11.0778999,
+       "Length_m": 100,
+       "PK": "024+550",
+       "Province": "កំពត"
+    },
+    "247": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2399979,
+       "Y": 11.0771999,
+       "Length_m": 100,
+       "PK": "024+650",
+       "Province": "កំពត"
+    },
+    "248": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2409973,
+       "Y": 11.0763998,
+       "Length_m": 100,
+       "PK": "024+750",
+       "Province": "កំពត"
+    },
+    "249": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2409973,
+       "Y": 11.0756998,
+       "Length_m": 100,
+       "PK": "024+850",
+       "Province": "កំពត"
+    },
+    "250": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2419968,
+       "Y": 11.0748997,
+       "Length_m": 100,
+       "PK": "024+950",
+       "Province": "កំពត"
+    },
+    "251": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2419968,
+       "Y": 11.0741997,
+       "Length_m": 100,
+       "PK": "025+050",
+       "Province": "កំពត"
+    },
+    "252": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2419968,
+       "Y": 11.0733004,
+       "Length_m": 100,
+       "PK": "025+150",
+       "Province": "កំពត"
+    },
+    "253": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2419968,
+       "Y": 11.0724001,
+       "Length_m": 100,
+       "PK": "025+250",
+       "Province": "កំពត"
+    },
+    "254": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2419968,
+       "Y": 11.0714998,
+       "Length_m": 100,
+       "PK": "025+350",
+       "Province": "កំពត"
+    },
+    "255": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2419968,
+       "Y": 11.0705996,
+       "Length_m": 100,
+       "PK": "025+450",
+       "Province": "កំពត"
+    },
+    "256": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2419968,
+       "Y": 11.0697002,
+       "Length_m": 100,
+       "PK": "025+550",
+       "Province": "កំពត"
+    },
+    "257": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2429962,
+       "Y": 11.0688,
+       "Length_m": 100,
+       "PK": "025+650",
+       "Province": "កំពត"
+    },
+    "258": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2429962,
+       "Y": 11.0678997,
+       "Length_m": 100,
+       "PK": "025+750",
+       "Province": "កំពត"
+    },
+    "259": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2429962,
+       "Y": 11.0670004,
+       "Length_m": 100,
+       "PK": "025+850",
+       "Province": "កំពត"
+    },
+    "260": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2429962,
+       "Y": 11.0661001,
+       "Length_m": 100,
+       "PK": "025+950",
+       "Province": "កំពត"
+    },
+    "261": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2429962,
+       "Y": 11.0651999,
+       "Length_m": 100,
+       "PK": "026+050",
+       "Province": "កំពត"
+    },
+    "262": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2429962,
+       "Y": 11.0642996,
+       "Length_m": 100,
+       "PK": "026+150",
+       "Province": "កំពត"
+    },
+    "263": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2429962,
+       "Y": 11.0634003,
+       "Length_m": 100,
+       "PK": "026+250",
+       "Province": "កំពត"
+    },
+    "264": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2429962,
+       "Y": 11.0625,
+       "Length_m": 100,
+       "PK": "026+350",
+       "Province": "កំពត"
+    },
+    "265": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2429962,
+       "Y": 11.0615997,
+       "Length_m": 100,
+       "PK": "026+450",
+       "Province": "កំពត"
+    },
+    "266": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2429962,
+       "Y": 11.0607004,
+       "Length_m": 100,
+       "PK": "026+550",
+       "Province": "កំពត"
+    },
+    "267": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2429962,
+       "Y": 11.0598001,
+       "Length_m": 100,
+       "PK": "026+650",
+       "Province": "កំពត"
+    },
+    "268": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2429962,
+       "Y": 11.0588999,
+       "Length_m": 100,
+       "PK": "026+750",
+       "Province": "កំពត"
+    },
+    "269": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2429962,
+       "Y": 11.0579996,
+       "Length_m": 100,
+       "PK": "026+850",
+       "Province": "កំពត"
+    },
+    "270": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2429962,
+       "Y": 11.0571003,
+       "Length_m": 100,
+       "PK": "026+950",
+       "Province": "កំពត"
+    },
+    "271": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2429962,
+       "Y": 11.0562,
+       "Length_m": 100,
+       "PK": "027+050",
+       "Province": "កំពត"
+    },
+    "272": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2429962,
+       "Y": 11.0552998,
+       "Length_m": 100,
+       "PK": "027+150",
+       "Province": "កំពត"
+    },
+    "273": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2429962,
+       "Y": 11.0543003,
+       "Length_m": 100,
+       "PK": "027+250",
+       "Province": "កំពត"
+    },
+    "274": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2429962,
+       "Y": 11.0534,
+       "Length_m": 100,
+       "PK": "027+350",
+       "Province": "កំពត"
+    },
+    "275": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2429962,
+       "Y": 11.0525999,
+       "Length_m": 100,
+       "PK": "027+450",
+       "Province": "កំពត"
+    },
+    "276": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2429962,
+       "Y": 11.0516996,
+       "Length_m": 100,
+       "PK": "027+550",
+       "Province": "កំពត"
+    },
+    "277": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2440033,
+       "Y": 11.0509005,
+       "Length_m": 100,
+       "PK": "027+650",
+       "Province": "កំពត"
+    },
+    "278": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2440033,
+       "Y": 11.0500002,
+       "Length_m": 100,
+       "PK": "027+750",
+       "Province": "កំពត"
+    },
+    "279": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2440033,
+       "Y": 11.0492001,
+       "Length_m": 100,
+       "PK": "027+850",
+       "Province": "កំពត"
+    },
+    "280": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2450027,
+       "Y": 11.0482998,
+       "Length_m": 100,
+       "PK": "027+950",
+       "Province": "កំពត"
+    },
+    "281": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2450027,
+       "Y": 11.0474997,
+       "Length_m": 100,
+       "PK": "028+050",
+       "Province": "កំពត"
+    },
+    "282": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2450027,
+       "Y": 11.0466995,
+       "Length_m": 100,
+       "PK": "028+150",
+       "Province": "កំពត"
+    },
+    "283": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2460022,
+       "Y": 11.0458002,
+       "Length_m": 100,
+       "PK": "028+250",
+       "Province": "កំពត"
+    },
+    "284": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2460022,
+       "Y": 11.0450001,
+       "Length_m": 100,
+       "PK": "028+350",
+       "Province": "កំពត"
+    },
+    "285": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2460022,
+       "Y": 11.0440998,
+       "Length_m": 100,
+       "PK": "028+450",
+       "Province": "កំពត"
+    },
+    "286": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2470016,
+       "Y": 11.0432997,
+       "Length_m": 100,
+       "PK": "028+550",
+       "Province": "កំពត"
+    },
+    "287": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2470016,
+       "Y": 11.0424004,
+       "Length_m": 100,
+       "PK": "028+650",
+       "Province": "កំពត"
+    },
+    "288": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2470016,
+       "Y": 11.0415001,
+       "Length_m": 100,
+       "PK": "028+750",
+       "Province": "កំពត"
+    },
+    "289": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2470016,
+       "Y": 11.0405998,
+       "Length_m": 100,
+       "PK": "028+850",
+       "Province": "កំពត"
+    },
+    "290": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2470016,
+       "Y": 11.0396996,
+       "Length_m": 100,
+       "PK": "028+950",
+       "Province": "កំពត"
+    },
+    "291": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2470016,
+       "Y": 11.0388002,
+       "Length_m": 100,
+       "PK": "029+050",
+       "Province": "កំពត"
+    },
+    "292": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2470016,
+       "Y": 11.0377998,
+       "Length_m": 100,
+       "PK": "029+150",
+       "Province": "កំពត"
+    },
+    "293": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2470016,
+       "Y": 11.0368996,
+       "Length_m": 100,
+       "PK": "029+250",
+       "Province": "កំពត"
+    },
+    "294": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2470016,
+       "Y": 11.0360003,
+       "Length_m": 100,
+       "PK": "029+350",
+       "Province": "កំពត"
+    },
+    "295": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2470016,
+       "Y": 11.0351,
+       "Length_m": 100,
+       "PK": "029+450",
+       "Province": "កំពត"
+    },
+    "296": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2470016,
+       "Y": 11.0341997,
+       "Length_m": 100,
+       "PK": "029+550",
+       "Province": "កំពត"
+    },
+    "297": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2470016,
+       "Y": 11.0333004,
+       "Length_m": 100,
+       "PK": "029+650",
+       "Province": "កំពត"
+    },
+    "298": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2470016,
+       "Y": 11.0325003,
+       "Length_m": 100,
+       "PK": "029+750",
+       "Province": "កំពត"
+    },
+    "299": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2460022,
+       "Y": 11.0316,
+       "Length_m": 100,
+       "PK": "029+850",
+       "Province": "កំពត"
+    },
+    "300": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2460022,
+       "Y": 11.0306997,
+       "Length_m": 100,
+       "PK": "029+950",
+       "Province": "កំពត"
+    },
+    "301": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2460022,
+       "Y": 11.0298996,
+       "Length_m": 100,
+       "PK": "030+050",
+       "Province": "កំពត"
+    },
+    "302": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2460022,
+       "Y": 11.0290003,
+       "Length_m": 100,
+       "PK": "030+150",
+       "Province": "កំពត"
+    },
+    "303": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2450027,
+       "Y": 11.0281,
+       "Length_m": 100,
+       "PK": "030+250",
+       "Province": "កំពត"
+    },
+    "304": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2450027,
+       "Y": 11.0271997,
+       "Length_m": 100,
+       "PK": "030+350",
+       "Province": "កំពត"
+    },
+    "305": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2450027,
+       "Y": 11.0263996,
+       "Length_m": 100,
+       "PK": "030+450",
+       "Province": "កំពត"
+    },
+    "306": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2450027,
+       "Y": 11.0255003,
+       "Length_m": 100,
+       "PK": "030+550",
+       "Province": "កំពត"
+    },
+    "307": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2440033,
+       "Y": 11.0246,
+       "Length_m": 100,
+       "PK": "030+650",
+       "Province": "កំពត"
+    },
+    "308": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2440033,
+       "Y": 11.0237999,
+       "Length_m": 100,
+       "PK": "030+750",
+       "Province": "កំពត"
+    },
+    "309": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2440033,
+       "Y": 11.0228996,
+       "Length_m": 100,
+       "PK": "030+850",
+       "Province": "កំពត"
+    },
+    "310": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2440033,
+       "Y": 11.0220003,
+       "Length_m": 100,
+       "PK": "030+950",
+       "Province": "កំពត"
+    },
+    "311": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2429962,
+       "Y": 11.0212002,
+       "Length_m": 100,
+       "PK": "031+050",
+       "Province": "កំពត"
+    },
+    "312": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2429962,
+       "Y": 11.0204,
+       "Length_m": 100,
+       "PK": "031+150",
+       "Province": "កំពត"
+    },
+    "313": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2429962,
+       "Y": 11.0195999,
+       "Length_m": 100,
+       "PK": "031+250",
+       "Province": "កំពត"
+    },
+    "314": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2419968,
+       "Y": 11.0187998,
+       "Length_m": 100,
+       "PK": "031+350",
+       "Province": "កំពត"
+    },
+    "315": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2419968,
+       "Y": 11.0179005,
+       "Length_m": 100,
+       "PK": "031+450",
+       "Province": "កំពត"
+    },
+    "316": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2409973,
+       "Y": 11.0171003,
+       "Length_m": 100,
+       "PK": "031+550",
+       "Province": "កំពត"
+    },
+    "317": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2409973,
+       "Y": 11.0162001,
+       "Length_m": 100,
+       "PK": "031+650",
+       "Province": "កំពត"
+    },
+    "318": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2409973,
+       "Y": 11.0152998,
+       "Length_m": 100,
+       "PK": "031+750",
+       "Province": "កំពត"
+    },
+    "319": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2399979,
+       "Y": 11.0145998,
+       "Length_m": 100,
+       "PK": "031+850",
+       "Province": "កំពត"
+    },
+    "320": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2399979,
+       "Y": 11.0137997,
+       "Length_m": 100,
+       "PK": "031+950",
+       "Province": "កំពត"
+    },
+    "321": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2399979,
+       "Y": 11.0129995,
+       "Length_m": 100,
+       "PK": "032+050",
+       "Province": "កំពត"
+    },
+    "322": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2389984,
+       "Y": 11.0121002,
+       "Length_m": 100,
+       "PK": "032+150",
+       "Province": "កំពត"
+    },
+    "323": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2389984,
+       "Y": 11.0112,
+       "Length_m": 100,
+       "PK": "032+250",
+       "Province": "កំពត"
+    },
+    "324": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2389984,
+       "Y": 11.0102997,
+       "Length_m": 100,
+       "PK": "032+350",
+       "Province": "កំពត"
+    },
+    "325": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2389984,
+       "Y": 11.0094004,
+       "Length_m": 100,
+       "PK": "032+450",
+       "Province": "កំពត"
+    },
+    "326": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2389984,
+       "Y": 11.0085001,
+       "Length_m": 100,
+       "PK": "032+550",
+       "Province": "កំពត"
+    },
+    "327": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2389984,
+       "Y": 11.0075998,
+       "Length_m": 100,
+       "PK": "032+650",
+       "Province": "កំពត"
+    },
+    "328": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2389984,
+       "Y": 11.0066996,
+       "Length_m": 100,
+       "PK": "032+750",
+       "Province": "កំពត"
+    },
+    "329": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2389984,
+       "Y": 11.0058002,
+       "Length_m": 100,
+       "PK": "032+850",
+       "Province": "កំពត"
+    },
+    "330": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2389984,
+       "Y": 11.0049,
+       "Length_m": 100,
+       "PK": "032+950",
+       "Province": "កំពត"
+    },
+    "331": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2389984,
+       "Y": 11.0039997,
+       "Length_m": 100,
+       "PK": "033+050",
+       "Province": "កំពត"
+    },
+    "332": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2389984,
+       "Y": 11.0031004,
+       "Length_m": 100,
+       "PK": "033+150",
+       "Province": "កំពត"
+    },
+    "333": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2389984,
+       "Y": 11.0022001,
+       "Length_m": 100,
+       "PK": "033+250",
+       "Province": "កំពត"
+    },
+    "334": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2389984,
+       "Y": 11.0012999,
+       "Length_m": 100,
+       "PK": "033+350",
+       "Province": "កំពត"
+    },
+    "335": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2389984,
+       "Y": 11.0003996,
+       "Length_m": 100,
+       "PK": "033+450",
+       "Province": "កំពត"
+    },
+    "336": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2399979,
+       "Y": 10.9995003,
+       "Length_m": 100,
+       "PK": "033+550",
+       "Province": "កំពត"
+    },
+    "337": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2399979,
+       "Y": 10.9986,
+       "Length_m": 100,
+       "PK": "033+650",
+       "Province": "កំពត"
+    },
+    "338": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2399979,
+       "Y": 10.9976997,
+       "Length_m": 100,
+       "PK": "033+750",
+       "Province": "កំពត"
+    },
+    "339": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2399979,
+       "Y": 10.9968004,
+       "Length_m": 100,
+       "PK": "033+850",
+       "Province": "កំពត"
+    },
+    "340": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2399979,
+       "Y": 10.9959002,
+       "Length_m": 100,
+       "PK": "033+950",
+       "Province": "កំពត"
+    },
+    "341": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2399979,
+       "Y": 10.9949999,
+       "Length_m": 100,
+       "PK": "034+050",
+       "Province": "កំពត"
+    },
+    "342": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2399979,
+       "Y": 10.9940996,
+       "Length_m": 100,
+       "PK": "034+150",
+       "Province": "កំពត"
+    },
+    "343": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2399979,
+       "Y": 10.9932003,
+       "Length_m": 100,
+       "PK": "034+250",
+       "Province": "កំពត"
+    },
+    "344": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2399979,
+       "Y": 10.9923,
+       "Length_m": 100,
+       "PK": "034+350",
+       "Province": "កំពត"
+    },
+    "345": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2399979,
+       "Y": 10.9913998,
+       "Length_m": 100,
+       "PK": "034+450",
+       "Province": "កំពត"
+    },
+    "346": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2399979,
+       "Y": 10.9904003,
+       "Length_m": 100,
+       "PK": "034+550",
+       "Province": "កំពត"
+    },
+    "347": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2399979,
+       "Y": 10.9895,
+       "Length_m": 100,
+       "PK": "034+650",
+       "Province": "កំពត"
+    },
+    "348": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2399979,
+       "Y": 10.9885998,
+       "Length_m": 100,
+       "PK": "034+750",
+       "Province": "កំពត"
+    },
+    "349": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2399979,
+       "Y": 10.9877005,
+       "Length_m": 100,
+       "PK": "034+850",
+       "Province": "កំពត"
+    },
+    "350": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2399979,
+       "Y": 10.9868002,
+       "Length_m": 100,
+       "PK": "034+950",
+       "Province": "កំពត"
+    },
+    "351": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2399979,
+       "Y": 10.9860001,
+       "Length_m": 100,
+       "PK": "035+050",
+       "Province": "កំពត"
+    },
+    "352": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2389984,
+       "Y": 10.9851999,
+       "Length_m": 100,
+       "PK": "035+150",
+       "Province": "កំពត"
+    },
+    "353": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2389984,
+       "Y": 10.9844999,
+       "Length_m": 100,
+       "PK": "035+250",
+       "Province": "កំពត"
+    },
+    "354": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.237999,
+       "Y": 10.9836998,
+       "Length_m": 100,
+       "PK": "035+350",
+       "Province": "កំពត"
+    },
+    "355": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.237999,
+       "Y": 10.9828997,
+       "Length_m": 100,
+       "PK": "035+450",
+       "Province": "កំពត"
+    },
+    "356": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2369995,
+       "Y": 10.9820995,
+       "Length_m": 100,
+       "PK": "035+550",
+       "Province": "កំពត"
+    },
+    "357": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2369995,
+       "Y": 10.9813004,
+       "Length_m": 100,
+       "PK": "035+650",
+       "Province": "កំពត"
+    },
+    "358": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2360001,
+       "Y": 10.9805002,
+       "Length_m": 100,
+       "PK": "035+750",
+       "Province": "កំពត"
+    },
+    "359": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2360001,
+       "Y": 10.9797001,
+       "Length_m": 100,
+       "PK": "035+850",
+       "Province": "កំពត"
+    },
+    "360": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2360001,
+       "Y": 10.9789,
+       "Length_m": 100,
+       "PK": "035+950",
+       "Province": "កំពត"
+    },
+    "361": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2350006,
+       "Y": 10.9782,
+       "Length_m": 100,
+       "PK": "036+050",
+       "Province": "កំពត"
+    },
+    "362": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2350006,
+       "Y": 10.9773998,
+       "Length_m": 100,
+       "PK": "036+150",
+       "Province": "កំពត"
+    },
+    "363": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2340012,
+       "Y": 10.9765997,
+       "Length_m": 100,
+       "PK": "036+250",
+       "Province": "កំពត"
+    },
+    "364": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2340012,
+       "Y": 10.9757004,
+       "Length_m": 100,
+       "PK": "036+350",
+       "Province": "កំពត"
+    },
+    "365": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2340012,
+       "Y": 10.9749002,
+       "Length_m": 100,
+       "PK": "036+450",
+       "Province": "កំពត"
+    },
+    "366": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2340012,
+       "Y": 10.974,
+       "Length_m": 100,
+       "PK": "036+550",
+       "Province": "កំពត"
+    },
+    "367": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2350006,
+       "Y": 10.9731998,
+       "Length_m": 100,
+       "PK": "036+650",
+       "Province": "កំពត"
+    },
+    "368": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2350006,
+       "Y": 10.9722996,
+       "Length_m": 100,
+       "PK": "036+750",
+       "Province": "កំពត"
+    },
+    "369": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2350006,
+       "Y": 10.9714003,
+       "Length_m": 100,
+       "PK": "036+850",
+       "Province": "កំពត"
+    },
+    "370": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2350006,
+       "Y": 10.9705,
+       "Length_m": 100,
+       "PK": "036+950",
+       "Province": "កំពត"
+    },
+    "371": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2360001,
+       "Y": 10.9696999,
+       "Length_m": 100,
+       "PK": "037+050",
+       "Province": "កំពត"
+    },
+    "372": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2360001,
+       "Y": 10.9687996,
+       "Length_m": 100,
+       "PK": "037+150",
+       "Province": "កំពត"
+    },
+    "373": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2360001,
+       "Y": 10.9680004,
+       "Length_m": 100,
+       "PK": "037+250",
+       "Province": "កំពត"
+    },
+    "374": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2369995,
+       "Y": 10.9672003,
+       "Length_m": 100,
+       "PK": "037+350",
+       "Province": "កំពត"
+    },
+    "375": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2369995,
+       "Y": 10.9664001,
+       "Length_m": 100,
+       "PK": "037+450",
+       "Province": "កំពត"
+    },
+    "376": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.237999,
+       "Y": 10.9657001,
+       "Length_m": 100,
+       "PK": "037+550",
+       "Province": "កំពត"
+    },
+    "377": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.237999,
+       "Y": 10.9650002,
+       "Length_m": 100,
+       "PK": "037+650",
+       "Province": "កំពត"
+    },
+    "378": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2389984,
+       "Y": 10.9642,
+       "Length_m": 100,
+       "PK": "037+750",
+       "Province": "កំពត"
+    },
+    "379": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2389984,
+       "Y": 10.9635,
+       "Length_m": 100,
+       "PK": "037+850",
+       "Province": "កំពត"
+    },
+    "380": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2399979,
+       "Y": 10.9626999,
+       "Length_m": 100,
+       "PK": "037+950",
+       "Province": "កំពត"
+    },
+    "381": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2399979,
+       "Y": 10.9619999,
+       "Length_m": 100,
+       "PK": "038+050",
+       "Province": "កំពត"
+    },
+    "382": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2409973,
+       "Y": 10.9611998,
+       "Length_m": 100,
+       "PK": "038+150",
+       "Province": "កំពត"
+    },
+    "383": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2409973,
+       "Y": 10.9604998,
+       "Length_m": 100,
+       "PK": "038+250",
+       "Province": "កំពត"
+    },
+    "384": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2419968,
+       "Y": 10.9597998,
+       "Length_m": 100,
+       "PK": "038+350",
+       "Province": "កំពត"
+    },
+    "385": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2429962,
+       "Y": 10.9589996,
+       "Length_m": 100,
+       "PK": "038+450",
+       "Province": "កំពត"
+    },
+    "386": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2429962,
+       "Y": 10.9582996,
+       "Length_m": 100,
+       "PK": "038+550",
+       "Province": "កំពត"
+    },
+    "387": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2440033,
+       "Y": 10.9575996,
+       "Length_m": 100,
+       "PK": "038+650",
+       "Province": "កំពត"
+    },
+    "388": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2440033,
+       "Y": 10.9568005,
+       "Length_m": 100,
+       "PK": "038+750",
+       "Province": "កំពត"
+    },
+    "389": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2450027,
+       "Y": 10.9561005,
+       "Length_m": 100,
+       "PK": "038+850",
+       "Province": "កំពត"
+    },
+    "390": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2450027,
+       "Y": 10.9554005,
+       "Length_m": 100,
+       "PK": "038+950",
+       "Province": "កំពត"
+    },
+    "391": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2460022,
+       "Y": 10.9546003,
+       "Length_m": 100,
+       "PK": "039+050",
+       "Province": "កំពត"
+    },
+    "392": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2460022,
+       "Y": 10.9539003,
+       "Length_m": 100,
+       "PK": "039+150",
+       "Province": "កំពត"
+    },
+    "393": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2470016,
+       "Y": 10.9532003,
+       "Length_m": 100,
+       "PK": "039+250",
+       "Province": "កំពត"
+    },
+    "394": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2470016,
+       "Y": 10.9524002,
+       "Length_m": 100,
+       "PK": "039+350",
+       "Province": "កំពត"
+    },
+    "395": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2480011,
+       "Y": 10.9517002,
+       "Length_m": 100,
+       "PK": "039+450",
+       "Province": "កំពត"
+    },
+    "396": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2480011,
+       "Y": 10.9510002,
+       "Length_m": 100,
+       "PK": "039+550",
+       "Province": "កំពត"
+    },
+    "397": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2490005,
+       "Y": 10.9502001,
+       "Length_m": 100,
+       "PK": "039+650",
+       "Province": "កំពត"
+    },
+    "398": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2490005,
+       "Y": 10.9495001,
+       "Length_m": 100,
+       "PK": "039+750",
+       "Province": "កំពត"
+    },
+    "399": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.25,
+       "Y": 10.9488001,
+       "Length_m": 100,
+       "PK": "039+850",
+       "Province": "កំពត"
+    },
+    "400": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2509995,
+       "Y": 10.9481001,
+       "Length_m": 100,
+       "PK": "039+950",
+       "Province": "កំពត"
+    },
+    "401": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2509995,
+       "Y": 10.9473,
+       "Length_m": 100,
+       "PK": "040+050",
+       "Province": "កំពត"
+    },
+    "402": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2519989,
+       "Y": 10.9466,
+       "Length_m": 100,
+       "PK": "040+150",
+       "Province": "កំពត"
+    },
+    "403": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2519989,
+       "Y": 10.9459,
+       "Length_m": 100,
+       "PK": "040+250",
+       "Province": "កំពត"
+    },
+    "404": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2529984,
+       "Y": 10.9450998,
+       "Length_m": 100,
+       "PK": "040+350",
+       "Province": "កំពត"
+    },
+    "405": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2529984,
+       "Y": 10.9443998,
+       "Length_m": 100,
+       "PK": "040+450",
+       "Province": "កំពត"
+    },
+    "406": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2539978,
+       "Y": 10.9436998,
+       "Length_m": 100,
+       "PK": "040+550",
+       "Province": "កំពត"
+    },
+    "407": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2539978,
+       "Y": 10.9427996,
+       "Length_m": 100,
+       "PK": "040+650",
+       "Province": "កំពត"
+    },
+    "408": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2539978,
+       "Y": 10.9420004,
+       "Length_m": 100,
+       "PK": "040+750",
+       "Province": "កំពត"
+    },
+    "409": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2539978,
+       "Y": 10.9411001,
+       "Length_m": 100,
+       "PK": "040+850",
+       "Province": "កំពត"
+    },
+    "410": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2539978,
+       "Y": 10.9401999,
+       "Length_m": 100,
+       "PK": "040+950",
+       "Province": "កំពត"
+    },
+    "411": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2539978,
+       "Y": 10.9392996,
+       "Length_m": 100,
+       "PK": "041+050",
+       "Province": "កំពត"
+    },
+    "412": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2539978,
+       "Y": 10.9384003,
+       "Length_m": 100,
+       "PK": "041+150",
+       "Province": "កំពត"
+    },
+    "413": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2539978,
+       "Y": 10.9375,
+       "Length_m": 100,
+       "PK": "041+250",
+       "Province": "កំពត"
+    },
+    "414": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2539978,
+       "Y": 10.9365997,
+       "Length_m": 100,
+       "PK": "041+350",
+       "Province": "កំពត"
+    },
+    "415": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2539978,
+       "Y": 10.9357004,
+       "Length_m": 100,
+       "PK": "041+450",
+       "Province": "កំពត"
+    },
+    "416": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2539978,
+       "Y": 10.9348001,
+       "Length_m": 100,
+       "PK": "041+550",
+       "Province": "កំពត"
+    },
+    "417": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2539978,
+       "Y": 10.9338999,
+       "Length_m": 100,
+       "PK": "041+650",
+       "Province": "កំពត"
+    },
+    "418": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2539978,
+       "Y": 10.9329996,
+       "Length_m": 100,
+       "PK": "041+750",
+       "Province": "កំពត"
+    },
+    "419": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2529984,
+       "Y": 10.9321003,
+       "Length_m": 100,
+       "PK": "041+850",
+       "Province": "កំពត"
+    },
+    "420": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2529984,
+       "Y": 10.9312,
+       "Length_m": 100,
+       "PK": "041+950",
+       "Province": "កំពត"
+    },
+    "421": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2529984,
+       "Y": 10.9302998,
+       "Length_m": 100,
+       "PK": "042+050",
+       "Province": "កំពត"
+    },
+    "422": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2529984,
+       "Y": 10.9294004,
+       "Length_m": 100,
+       "PK": "042+150",
+       "Province": "កំពត"
+    },
+    "423": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2529984,
+       "Y": 10.9285002,
+       "Length_m": 100,
+       "PK": "042+250",
+       "Province": "កំពត"
+    },
+    "424": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2529984,
+       "Y": 10.9275999,
+       "Length_m": 100,
+       "PK": "042+350",
+       "Province": "កំពត"
+    },
+    "425": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2519989,
+       "Y": 10.9268999,
+       "Length_m": 100,
+       "PK": "042+450",
+       "Province": "កំពត"
+    },
+    "426": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2519989,
+       "Y": 10.9261999,
+       "Length_m": 100,
+       "PK": "042+550",
+       "Province": "កំពត"
+    },
+    "427": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2509995,
+       "Y": 10.9256001,
+       "Length_m": 100,
+       "PK": "042+650",
+       "Province": "កំពត"
+    },
+    "428": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.25,
+       "Y": 10.9250002,
+       "Length_m": 100,
+       "PK": "042+750",
+       "Province": "កំពត"
+    },
+    "429": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.25,
+       "Y": 10.9243002,
+       "Length_m": 100,
+       "PK": "042+850",
+       "Province": "កំពត"
+    },
+    "430": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.25,
+       "Y": 10.9233999,
+       "Length_m": 100,
+       "PK": "042+950",
+       "Province": "កំពត"
+    },
+    "431": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.25,
+       "Y": 10.9225998,
+       "Length_m": 100,
+       "PK": "043+050",
+       "Province": "កំពត"
+    },
+    "432": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2509995,
+       "Y": 10.9217997,
+       "Length_m": 100,
+       "PK": "043+150",
+       "Province": "កំពត"
+    },
+    "433": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2509995,
+       "Y": 10.9209995,
+       "Length_m": 100,
+       "PK": "043+250",
+       "Province": "កំពត"
+    },
+    "434": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2509995,
+       "Y": 10.9202003,
+       "Length_m": 100,
+       "PK": "043+350",
+       "Province": "កំពត"
+    },
+    "435": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2519989,
+       "Y": 10.9194002,
+       "Length_m": 100,
+       "PK": "043+450",
+       "Province": "កំពត"
+    },
+    "436": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2519989,
+       "Y": 10.9184999,
+       "Length_m": 100,
+       "PK": "043+550",
+       "Province": "កំពត"
+    },
+    "437": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2519989,
+       "Y": 10.9175997,
+       "Length_m": 100,
+       "PK": "043+650",
+       "Province": "កំពត"
+    },
+    "438": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2519989,
+       "Y": 10.9167004,
+       "Length_m": 100,
+       "PK": "043+750",
+       "Province": "កំពត"
+    },
+    "439": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2519989,
+       "Y": 10.9158001,
+       "Length_m": 100,
+       "PK": "043+850",
+       "Province": "កំពត"
+    },
+    "440": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2519989,
+       "Y": 10.9148998,
+       "Length_m": 100,
+       "PK": "043+950",
+       "Province": "កំពត"
+    },
+    "441": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2519989,
+       "Y": 10.9140997,
+       "Length_m": 100,
+       "PK": "044+050",
+       "Province": "កំពត"
+    },
+    "442": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2519989,
+       "Y": 10.9132004,
+       "Length_m": 100,
+       "PK": "044+150",
+       "Province": "កំពត"
+    },
+    "443": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2519989,
+       "Y": 10.9123001,
+       "Length_m": 100,
+       "PK": "044+250",
+       "Province": "កំពត"
+    },
+    "444": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2529984,
+       "Y": 10.9113998,
+       "Length_m": 100,
+       "PK": "044+350",
+       "Province": "កំពត"
+    },
+    "445": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2519989,
+       "Y": 10.9104996,
+       "Length_m": 100,
+       "PK": "044+450",
+       "Province": "កំពត"
+    },
+    "446": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2519989,
+       "Y": 10.9104004,
+       "Length_m": 100,
+       "PK": "044+550",
+       "Province": "កំពត"
+    },
+    "447": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2509995,
+       "Y": 10.9103003,
+       "Length_m": 100,
+       "PK": "044+650",
+       "Province": "កំពត"
+    },
+    "448": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.25,
+       "Y": 10.9102001,
+       "Length_m": 100,
+       "PK": "044+750",
+       "Province": "កំពត"
+    },
+    "449": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2490005,
+       "Y": 10.9099998,
+       "Length_m": 100,
+       "PK": "044+850",
+       "Province": "កំពត"
+    },
+    "450": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2480011,
+       "Y": 10.9095001,
+       "Length_m": 100,
+       "PK": "044+950",
+       "Province": "កំពត"
+    },
+    "451": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2480011,
+       "Y": 10.9087,
+       "Length_m": 100,
+       "PK": "045+050",
+       "Province": "កំពត"
+    },
+    "452": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2480011,
+       "Y": 10.9077997,
+       "Length_m": 100,
+       "PK": "045+150",
+       "Province": "កំពត"
+    },
+    "453": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2470016,
+       "Y": 10.9069996,
+       "Length_m": 100,
+       "PK": "045+250",
+       "Province": "កំពត"
+    },
+    "454": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2470016,
+       "Y": 10.9061003,
+       "Length_m": 100,
+       "PK": "045+350",
+       "Province": "កំពត"
+    },
+    "455": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2470016,
+       "Y": 10.9052,
+       "Length_m": 100,
+       "PK": "045+450",
+       "Province": "កំពត"
+    },
+    "456": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2470016,
+       "Y": 10.9042997,
+       "Length_m": 100,
+       "PK": "045+550",
+       "Province": "កំពត"
+    },
+    "457": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2470016,
+       "Y": 10.9034004,
+       "Length_m": 100,
+       "PK": "045+650",
+       "Province": "កំពត"
+    },
+    "458": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2470016,
+       "Y": 10.9025002,
+       "Length_m": 100,
+       "PK": "045+750",
+       "Province": "កំពត"
+    },
+    "459": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2470016,
+       "Y": 10.9015999,
+       "Length_m": 100,
+       "PK": "045+850",
+       "Province": "កំពត"
+    },
+    "460": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2460022,
+       "Y": 10.9006996,
+       "Length_m": 100,
+       "PK": "045+950",
+       "Province": "កំពត"
+    },
+    "461": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2460022,
+       "Y": 10.8999004,
+       "Length_m": 100,
+       "PK": "046+050",
+       "Province": "កំពត"
+    },
+    "462": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2460022,
+       "Y": 10.8990002,
+       "Length_m": 100,
+       "PK": "046+150",
+       "Province": "កំពត"
+    },
+    "463": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2450027,
+       "Y": 10.8982,
+       "Length_m": 100,
+       "PK": "046+250",
+       "Province": "កំពត"
+    },
+    "464": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2450027,
+       "Y": 10.8972998,
+       "Length_m": 100,
+       "PK": "046+350",
+       "Province": "កំពត"
+    },
+    "465": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2450027,
+       "Y": 10.8964005,
+       "Length_m": 100,
+       "PK": "046+450",
+       "Province": "កំពត"
+    },
+    "466": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2450027,
+       "Y": 10.8956003,
+       "Length_m": 100,
+       "PK": "046+550",
+       "Province": "កំពត"
+    },
+    "467": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2440033,
+       "Y": 10.8947001,
+       "Length_m": 100,
+       "PK": "046+650",
+       "Province": "កំពត"
+    },
+    "468": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2440033,
+       "Y": 10.8938999,
+       "Length_m": 100,
+       "PK": "046+750",
+       "Province": "កំពត"
+    },
+    "469": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2440033,
+       "Y": 10.8929996,
+       "Length_m": 100,
+       "PK": "046+850",
+       "Province": "កំពត"
+    },
+    "470": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2429962,
+       "Y": 10.8921003,
+       "Length_m": 100,
+       "PK": "046+950",
+       "Province": "កំពត"
+    },
+    "471": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2429962,
+       "Y": 10.8913002,
+       "Length_m": 100,
+       "PK": "047+050",
+       "Province": "កំពត"
+    },
+    "472": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2429962,
+       "Y": 10.8903999,
+       "Length_m": 100,
+       "PK": "047+150",
+       "Province": "កំពត"
+    },
+    "473": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2429962,
+       "Y": 10.8895998,
+       "Length_m": 100,
+       "PK": "047+250",
+       "Province": "កំពត"
+    },
+    "474": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2419968,
+       "Y": 10.8886995,
+       "Length_m": 100,
+       "PK": "047+350",
+       "Province": "កំពត"
+    },
+    "475": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2419968,
+       "Y": 10.8878002,
+       "Length_m": 100,
+       "PK": "047+450",
+       "Province": "កំពត"
+    },
+    "476": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2419968,
+       "Y": 10.8870001,
+       "Length_m": 100,
+       "PK": "047+550",
+       "Province": "កំពត"
+    },
+    "477": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2419968,
+       "Y": 10.8860998,
+       "Length_m": 100,
+       "PK": "047+650",
+       "Province": "កំពត"
+    },
+    "478": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2409973,
+       "Y": 10.8851995,
+       "Length_m": 100,
+       "PK": "047+750",
+       "Province": "កំពត"
+    },
+    "479": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2409973,
+       "Y": 10.8843002,
+       "Length_m": 100,
+       "PK": "047+850",
+       "Province": "កំពត"
+    },
+    "480": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2409973,
+       "Y": 10.8834,
+       "Length_m": 100,
+       "PK": "047+950",
+       "Province": "កំពត"
+    },
+    "481": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2409973,
+       "Y": 10.8824997,
+       "Length_m": 100,
+       "PK": "048+050",
+       "Province": "កំពត"
+    },
+    "482": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2409973,
+       "Y": 10.8816004,
+       "Length_m": 100,
+       "PK": "048+150",
+       "Province": "កំពត"
+    },
+    "483": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2409973,
+       "Y": 10.8807001,
+       "Length_m": 100,
+       "PK": "048+250",
+       "Province": "កំពត"
+    },
+    "484": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2409973,
+       "Y": 10.8797998,
+       "Length_m": 100,
+       "PK": "048+350",
+       "Province": "កំពត"
+    },
+    "485": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2409973,
+       "Y": 10.8788996,
+       "Length_m": 100,
+       "PK": "048+450",
+       "Province": "កំពត"
+    },
+    "486": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2409973,
+       "Y": 10.8780003,
+       "Length_m": 100,
+       "PK": "048+550",
+       "Province": "កំពត"
+    },
+    "487": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2409973,
+       "Y": 10.8771,
+       "Length_m": 100,
+       "PK": "048+650",
+       "Province": "កំពត"
+    },
+    "488": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2409973,
+       "Y": 10.8761997,
+       "Length_m": 100,
+       "PK": "048+750",
+       "Province": "កំពត"
+    },
+    "489": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2409973,
+       "Y": 10.8753004,
+       "Length_m": 100,
+       "PK": "048+850",
+       "Province": "កំពត"
+    },
+    "490": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2409973,
+       "Y": 10.8744001,
+       "Length_m": 100,
+       "PK": "048+950",
+       "Province": "កំពត"
+    },
+    "491": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2409973,
+       "Y": 10.8734999,
+       "Length_m": 100,
+       "PK": "049+050",
+       "Province": "កំពត"
+    },
+    "492": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2399979,
+       "Y": 10.8726997,
+       "Length_m": 100,
+       "PK": "049+150",
+       "Province": "កំពត"
+    },
+    "493": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2399979,
+       "Y": 10.8718004,
+       "Length_m": 100,
+       "PK": "049+250",
+       "Province": "កំពត"
+    },
+    "494": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2399979,
+       "Y": 10.8709002,
+       "Length_m": 100,
+       "PK": "049+350",
+       "Province": "កំពត"
+    },
+    "495": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2399979,
+       "Y": 10.8699999,
+       "Length_m": 100,
+       "PK": "049+450",
+       "Province": "កំពត"
+    },
+    "496": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2399979,
+       "Y": 10.8690996,
+       "Length_m": 100,
+       "PK": "049+550",
+       "Province": "កំពត"
+    },
+    "497": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2389984,
+       "Y": 10.8683004,
+       "Length_m": 100,
+       "PK": "049+650",
+       "Province": "កំពត"
+    },
+    "498": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2389984,
+       "Y": 10.8674002,
+       "Length_m": 100,
+       "PK": "049+750",
+       "Province": "កំពត"
+    },
+    "499": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2389984,
+       "Y": 10.8664999,
+       "Length_m": 100,
+       "PK": "049+850",
+       "Province": "កំពត"
+    },
+    "500": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2389984,
+       "Y": 10.8655996,
+       "Length_m": 100,
+       "PK": "049+950",
+       "Province": "កំពត"
+    },
+    "501": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.237999,
+       "Y": 10.8647003,
+       "Length_m": 100,
+       "PK": "050+050",
+       "Province": "កំពត"
+    },
+    "502": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.237999,
+       "Y": 10.8639002,
+       "Length_m": 100,
+       "PK": "050+150",
+       "Province": "កំពត"
+    },
+    "503": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.237999,
+       "Y": 10.8629999,
+       "Length_m": 100,
+       "PK": "050+250",
+       "Province": "កំពត"
+    },
+    "504": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.237999,
+       "Y": 10.8620996,
+       "Length_m": 100,
+       "PK": "050+350",
+       "Province": "កំពត"
+    },
+    "505": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.237999,
+       "Y": 10.8613005,
+       "Length_m": 100,
+       "PK": "050+450",
+       "Province": "កំពត"
+    },
+    "506": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2369995,
+       "Y": 10.8604002,
+       "Length_m": 100,
+       "PK": "050+550",
+       "Province": "កំពត"
+    },
+    "507": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2369995,
+       "Y": 10.8594999,
+       "Length_m": 100,
+       "PK": "050+650",
+       "Province": "កំពត"
+    },
+    "508": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2369995,
+       "Y": 10.8586998,
+       "Length_m": 100,
+       "PK": "050+750",
+       "Province": "កំពត"
+    },
+    "509": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2360001,
+       "Y": 10.8577995,
+       "Length_m": 100,
+       "PK": "050+850",
+       "Province": "កំពត"
+    },
+    "510": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2360001,
+       "Y": 10.8570004,
+       "Length_m": 100,
+       "PK": "050+950",
+       "Province": "កំពត"
+    },
+    "511": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2369995,
+       "Y": 10.8563995,
+       "Length_m": 100,
+       "PK": "051+050",
+       "Province": "កំពត"
+    },
+    "512": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2369995,
+       "Y": 10.8557997,
+       "Length_m": 100,
+       "PK": "051+150",
+       "Province": "កំពត"
+    },
+    "513": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.237999,
+       "Y": 10.8550997,
+       "Length_m": 100,
+       "PK": "051+250",
+       "Province": "កំពត"
+    },
+    "514": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2389984,
+       "Y": 10.8549004,
+       "Length_m": 100,
+       "PK": "051+350",
+       "Province": "កំពត"
+    },
+    "515": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2399979,
+       "Y": 10.8544998,
+       "Length_m": 100,
+       "PK": "051+450",
+       "Province": "កំពត"
+    },
+    "516": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2399979,
+       "Y": 10.8541002,
+       "Length_m": 100,
+       "PK": "051+550",
+       "Province": "កំពត"
+    },
+    "517": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2409973,
+       "Y": 10.8537998,
+       "Length_m": 100,
+       "PK": "051+650",
+       "Province": "កំពត"
+    },
+    "518": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2419968,
+       "Y": 10.8535004,
+       "Length_m": 100,
+       "PK": "051+750",
+       "Province": "កំពត"
+    },
+    "519": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2429962,
+       "Y": 10.8532,
+       "Length_m": 100,
+       "PK": "051+850",
+       "Province": "កំពត"
+    },
+    "520": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2440033,
+       "Y": 10.8529997,
+       "Length_m": 100,
+       "PK": "051+950",
+       "Province": "កំពត"
+    },
+    "521": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2450027,
+       "Y": 10.8528004,
+       "Length_m": 100,
+       "PK": "052+050",
+       "Province": "កំពត"
+    },
+    "522": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2460022,
+       "Y": 10.8526001,
+       "Length_m": 100,
+       "PK": "052+150",
+       "Province": "កំពត"
+    },
+    "523": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2470016,
+       "Y": 10.8522997,
+       "Length_m": 100,
+       "PK": "052+250",
+       "Province": "កំពត"
+    },
+    "524": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2470016,
+       "Y": 10.8519001,
+       "Length_m": 100,
+       "PK": "052+350",
+       "Province": "កំពត"
+    },
+    "525": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2480011,
+       "Y": 10.8515997,
+       "Length_m": 100,
+       "PK": "052+450",
+       "Province": "កំពត"
+    },
+    "526": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2490005,
+       "Y": 10.8511,
+       "Length_m": 100,
+       "PK": "052+550",
+       "Province": "កំពត"
+    },
+    "527": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.25,
+       "Y": 10.8506002,
+       "Length_m": 100,
+       "PK": "052+650",
+       "Province": "កំពត"
+    },
+    "528": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2509995,
+       "Y": 10.8500996,
+       "Length_m": 100,
+       "PK": "052+750",
+       "Province": "កំពត"
+    },
+    "529": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2509995,
+       "Y": 10.8495998,
+       "Length_m": 100,
+       "PK": "052+850",
+       "Province": "កំពត"
+    },
+    "530": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2519989,
+       "Y": 10.849,
+       "Length_m": 100,
+       "PK": "052+950",
+       "Province": "កំពត"
+    },
+    "531": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2529984,
+       "Y": 10.8483,
+       "Length_m": 100,
+       "PK": "053+050",
+       "Province": "កំពត"
+    },
+    "532": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2529984,
+       "Y": 10.8473997,
+       "Length_m": 100,
+       "PK": "053+150",
+       "Province": "កំពត"
+    },
+    "533": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2529984,
+       "Y": 10.8465996,
+       "Length_m": 100,
+       "PK": "053+250",
+       "Province": "កំពត"
+    },
+    "534": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2529984,
+       "Y": 10.8457003,
+       "Length_m": 100,
+       "PK": "053+350",
+       "Province": "កំពត"
+    },
+    "535": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2529984,
+       "Y": 10.8448,
+       "Length_m": 100,
+       "PK": "053+450",
+       "Province": "កំពត"
+    },
+    "536": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2529984,
+       "Y": 10.8438997,
+       "Length_m": 100,
+       "PK": "053+550",
+       "Province": "កំពត"
+    },
+    "537": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2539978,
+       "Y": 10.8430004,
+       "Length_m": 100,
+       "PK": "053+650",
+       "Province": "កំពត"
+    },
+    "538": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2539978,
+       "Y": 10.8421001,
+       "Length_m": 100,
+       "PK": "053+750",
+       "Province": "កំពត"
+    },
+    "539": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2539978,
+       "Y": 10.8411999,
+       "Length_m": 100,
+       "PK": "053+850",
+       "Province": "កំពត"
+    },
+    "540": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2539978,
+       "Y": 10.8402996,
+       "Length_m": 100,
+       "PK": "053+950",
+       "Province": "កំពត"
+    },
+    "541": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2539978,
+       "Y": 10.8394003,
+       "Length_m": 100,
+       "PK": "054+050",
+       "Province": "កំពត"
+    },
+    "542": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2539978,
+       "Y": 10.8385,
+       "Length_m": 100,
+       "PK": "054+150",
+       "Province": "កំពត"
+    },
+    "543": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2549973,
+       "Y": 10.8381004,
+       "Length_m": 100,
+       "PK": "054+250",
+       "Province": "កំពត"
+    },
+    "544": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2559967,
+       "Y": 10.8379002,
+       "Length_m": 100,
+       "PK": "054+350",
+       "Province": "កំពត"
+    },
+    "545": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2570038,
+       "Y": 10.8376999,
+       "Length_m": 100,
+       "PK": "054+450",
+       "Province": "កំពត"
+    },
+    "546": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2570038,
+       "Y": 10.8368998,
+       "Length_m": 100,
+       "PK": "054+550",
+       "Province": "កំពត"
+    },
+    "547": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2570038,
+       "Y": 10.8360004,
+       "Length_m": 100,
+       "PK": "054+650",
+       "Province": "កំពត"
+    },
+    "548": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2570038,
+       "Y": 10.8351002,
+       "Length_m": 100,
+       "PK": "054+750",
+       "Province": "កំពត"
+    },
+    "549": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2570038,
+       "Y": 10.8341999,
+       "Length_m": 100,
+       "PK": "054+850",
+       "Province": "កំពត"
+    },
+    "550": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2570038,
+       "Y": 10.8332996,
+       "Length_m": 100,
+       "PK": "054+950",
+       "Province": "កំពត"
+    },
+    "551": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2570038,
+       "Y": 10.8324003,
+       "Length_m": 100,
+       "PK": "055+050",
+       "Province": "កំពត"
+    },
+    "552": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2580032,
+       "Y": 10.8316002,
+       "Length_m": 100,
+       "PK": "055+150",
+       "Province": "កំពត"
+    },
+    "553": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2580032,
+       "Y": 10.8306999,
+       "Length_m": 100,
+       "PK": "055+250",
+       "Province": "កំពត"
+    },
+    "554": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2580032,
+       "Y": 10.8297997,
+       "Length_m": 100,
+       "PK": "055+350",
+       "Province": "កំពត"
+    },
+    "555": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2580032,
+       "Y": 10.8292999,
+       "Length_m": 100,
+       "PK": "055+450",
+       "Province": "កំពត"
+    },
+    "556": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2570038,
+       "Y": 10.8289003,
+       "Length_m": 100,
+       "PK": "055+550",
+       "Province": "កំពត"
+    },
+    "557": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2559967,
+       "Y": 10.8285999,
+       "Length_m": 100,
+       "PK": "055+650",
+       "Province": "កំពត"
+    },
+    "558": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2549973,
+       "Y": 10.8282003,
+       "Length_m": 100,
+       "PK": "055+750",
+       "Province": "កំពត"
+    },
+    "559": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2539978,
+       "Y": 10.8278999,
+       "Length_m": 100,
+       "PK": "055+850",
+       "Province": "កំពត"
+    },
+    "560": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2539978,
+       "Y": 10.8275003,
+       "Length_m": 100,
+       "PK": "055+950",
+       "Province": "កំពត"
+    },
+    "561": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2529984,
+       "Y": 10.8270998,
+       "Length_m": 100,
+       "PK": "056+050",
+       "Province": "កំពត"
+    },
+    "562": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2519989,
+       "Y": 10.8267002,
+       "Length_m": 100,
+       "PK": "056+150",
+       "Province": "កំពត"
+    },
+    "563": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2509995,
+       "Y": 10.8262997,
+       "Length_m": 100,
+       "PK": "056+250",
+       "Province": "កំពត"
+    },
+    "564": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.25,
+       "Y": 10.8259001,
+       "Length_m": 100,
+       "PK": "056+350",
+       "Province": "កំពត"
+    },
+    "565": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2490005,
+       "Y": 10.8255997,
+       "Length_m": 100,
+       "PK": "056+450",
+       "Province": "កំពត"
+    },
+    "566": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2490005,
+       "Y": 10.8252001,
+       "Length_m": 100,
+       "PK": "056+550",
+       "Province": "កំពត"
+    },
+    "567": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2480011,
+       "Y": 10.8247995,
+       "Length_m": 100,
+       "PK": "056+650",
+       "Province": "កំពត"
+    },
+    "568": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2470016,
+       "Y": 10.8245001,
+       "Length_m": 100,
+       "PK": "056+750",
+       "Province": "កំពត"
+    },
+    "569": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2460022,
+       "Y": 10.8240995,
+       "Length_m": 100,
+       "PK": "056+850",
+       "Province": "កំពត"
+    },
+    "570": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2450027,
+       "Y": 10.8238001,
+       "Length_m": 100,
+       "PK": "056+950",
+       "Province": "កំពត"
+    },
+    "571": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2440033,
+       "Y": 10.8233995,
+       "Length_m": 100,
+       "PK": "057+050",
+       "Province": "កំពត"
+    },
+    "572": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2440033,
+       "Y": 10.823,
+       "Length_m": 100,
+       "PK": "057+150",
+       "Province": "កំពត"
+    },
+    "573": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2429962,
+       "Y": 10.8227997,
+       "Length_m": 100,
+       "PK": "057+250",
+       "Province": "កំពត"
+    },
+    "574": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2419968,
+       "Y": 10.8225002,
+       "Length_m": 100,
+       "PK": "057+350",
+       "Province": "កំពត"
+    },
+    "575": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2409973,
+       "Y": 10.8223,
+       "Length_m": 100,
+       "PK": "057+450",
+       "Province": "កំពត"
+    },
+    "576": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2399979,
+       "Y": 10.8220997,
+       "Length_m": 100,
+       "PK": "057+550",
+       "Province": "កំពត"
+    },
+    "577": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2389984,
+       "Y": 10.8219004,
+       "Length_m": 100,
+       "PK": "057+650",
+       "Province": "កំពត"
+    },
+    "578": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.237999,
+       "Y": 10.8216,
+       "Length_m": 100,
+       "PK": "057+750",
+       "Province": "កំពត"
+    },
+    "579": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2369995,
+       "Y": 10.8214998,
+       "Length_m": 100,
+       "PK": "057+850",
+       "Province": "កំពត"
+    },
+    "580": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2360001,
+       "Y": 10.8212996,
+       "Length_m": 100,
+       "PK": "057+950",
+       "Province": "កំពត"
+    },
+    "581": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2360001,
+       "Y": 10.8211002,
+       "Length_m": 100,
+       "PK": "058+050",
+       "Province": "កំពត"
+    },
+    "582": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2350006,
+       "Y": 10.8209,
+       "Length_m": 100,
+       "PK": "058+150",
+       "Province": "កំពត"
+    },
+    "583": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2340012,
+       "Y": 10.8206997,
+       "Length_m": 100,
+       "PK": "058+250",
+       "Province": "កំពត"
+    },
+    "584": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2330017,
+       "Y": 10.8205004,
+       "Length_m": 100,
+       "PK": "058+350",
+       "Province": "កំពត"
+    },
+    "585": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2320023,
+       "Y": 10.8203001,
+       "Length_m": 100,
+       "PK": "058+450",
+       "Province": "កំពត"
+    },
+    "586": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2310028,
+       "Y": 10.8200998,
+       "Length_m": 100,
+       "PK": "058+550",
+       "Province": "កំពត"
+    },
+    "587": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2300034,
+       "Y": 10.8198996,
+       "Length_m": 100,
+       "PK": "058+650",
+       "Province": "កំពត"
+    },
+    "588": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2289963,
+       "Y": 10.8193998,
+       "Length_m": 100,
+       "PK": "058+750",
+       "Province": "កំពត"
+    },
+    "589": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2289963,
+       "Y": 10.8186998,
+       "Length_m": 100,
+       "PK": "058+850",
+       "Province": "កំពត"
+    },
+    "590": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2289963,
+       "Y": 10.8177996,
+       "Length_m": 100,
+       "PK": "058+950",
+       "Province": "កំពត"
+    },
+    "591": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2289963,
+       "Y": 10.8169003,
+       "Length_m": 100,
+       "PK": "059+050",
+       "Province": "កំពត"
+    },
+    "592": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2289963,
+       "Y": 10.8161001,
+       "Length_m": 100,
+       "PK": "059+150",
+       "Province": "កំពត"
+    },
+    "593": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2300034,
+       "Y": 10.8151999,
+       "Length_m": 100,
+       "PK": "059+250",
+       "Province": "កំពត"
+    },
+    "594": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2300034,
+       "Y": 10.8143997,
+       "Length_m": 100,
+       "PK": "059+350",
+       "Province": "កំពត"
+    },
+    "595": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2300034,
+       "Y": 10.8135004,
+       "Length_m": 100,
+       "PK": "059+450",
+       "Province": "កំពត"
+    },
+    "596": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2300034,
+       "Y": 10.8127003,
+       "Length_m": 100,
+       "PK": "059+550",
+       "Province": "កំពត"
+    },
+    "597": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2310028,
+       "Y": 10.8118,
+       "Length_m": 100,
+       "PK": "059+650",
+       "Province": "កំពត"
+    },
+    "598": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2310028,
+       "Y": 10.8108997,
+       "Length_m": 100,
+       "PK": "059+750",
+       "Province": "កំពត"
+    },
+    "599": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2310028,
+       "Y": 10.8100004,
+       "Length_m": 100,
+       "PK": "059+850",
+       "Province": "កំពត"
+    },
+    "600": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2310028,
+       "Y": 10.8091002,
+       "Length_m": 100,
+       "PK": "059+950",
+       "Province": "កំពត"
+    },
+    "601": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2310028,
+       "Y": 10.8081999,
+       "Length_m": 100,
+       "PK": "060+050",
+       "Province": "កំពត"
+    },
+    "602": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2310028,
+       "Y": 10.8072996,
+       "Length_m": 100,
+       "PK": "060+150",
+       "Province": "កំពត"
+    },
+    "603": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2310028,
+       "Y": 10.8064003,
+       "Length_m": 100,
+       "PK": "060+250",
+       "Province": "កំពត"
+    },
+    "604": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2310028,
+       "Y": 10.8055,
+       "Length_m": 100,
+       "PK": "060+350",
+       "Province": "កំពត"
+    },
+    "605": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2300034,
+       "Y": 10.8046999,
+       "Length_m": 100,
+       "PK": "060+450",
+       "Province": "កំពត"
+    },
+    "606": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2300034,
+       "Y": 10.8038998,
+       "Length_m": 100,
+       "PK": "060+550",
+       "Province": "កំពត"
+    },
+    "607": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2300034,
+       "Y": 10.8030996,
+       "Length_m": 100,
+       "PK": "060+650",
+       "Province": "កំពត"
+    },
+    "608": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2289963,
+       "Y": 10.8023005,
+       "Length_m": 100,
+       "PK": "060+750",
+       "Province": "កំពត"
+    },
+    "609": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2289963,
+       "Y": 10.8015003,
+       "Length_m": 100,
+       "PK": "060+850",
+       "Province": "កំពត"
+    },
+    "610": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2279968,
+       "Y": 10.8006001,
+       "Length_m": 100,
+       "PK": "060+950",
+       "Province": "កំពត"
+    },
+    "611": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2279968,
+       "Y": 10.7996998,
+       "Length_m": 100,
+       "PK": "061+050",
+       "Province": "កំពត"
+    },
+    "612": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2279968,
+       "Y": 10.7988997,
+       "Length_m": 100,
+       "PK": "061+150",
+       "Province": "កំពត"
+    },
+    "613": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2279968,
+       "Y": 10.7980003,
+       "Length_m": 100,
+       "PK": "061+250",
+       "Province": "កំពត"
+    },
+    "614": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2269974,
+       "Y": 10.7972002,
+       "Length_m": 100,
+       "PK": "061+350",
+       "Province": "កំពត"
+    },
+    "615": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2269974,
+       "Y": 10.7962999,
+       "Length_m": 100,
+       "PK": "061+450",
+       "Province": "កំពត"
+    },
+    "616": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2269974,
+       "Y": 10.7954998,
+       "Length_m": 100,
+       "PK": "061+550",
+       "Province": "កំពត"
+    },
+    "617": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2269974,
+       "Y": 10.7945995,
+       "Length_m": 100,
+       "PK": "061+650",
+       "Province": "កំពត"
+    },
+    "618": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2269974,
+       "Y": 10.7937002,
+       "Length_m": 100,
+       "PK": "061+750",
+       "Province": "កំពត"
+    },
+    "619": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2269974,
+       "Y": 10.7927999,
+       "Length_m": 100,
+       "PK": "061+850",
+       "Province": "កំពត"
+    },
+    "620": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2269974,
+       "Y": 10.7918997,
+       "Length_m": 100,
+       "PK": "061+950",
+       "Province": "កំពត"
+    },
+    "621": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2269974,
+       "Y": 10.7910004,
+       "Length_m": 100,
+       "PK": "062+050",
+       "Province": "កំពត"
+    },
+    "622": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2269974,
+       "Y": 10.7901001,
+       "Length_m": 100,
+       "PK": "062+150",
+       "Province": "កំពត"
+    },
+    "623": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2269974,
+       "Y": 10.7891998,
+       "Length_m": 100,
+       "PK": "062+250",
+       "Province": "កំពត"
+    },
+    "624": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2269974,
+       "Y": 10.7882996,
+       "Length_m": 100,
+       "PK": "062+350",
+       "Province": "កំពត"
+    },
+    "625": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2269974,
+       "Y": 10.7874002,
+       "Length_m": 100,
+       "PK": "062+450",
+       "Province": "កំពត"
+    },
+    "626": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2259979,
+       "Y": 10.7866001,
+       "Length_m": 100,
+       "PK": "062+550",
+       "Province": "កំពត"
+    },
+    "627": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2259979,
+       "Y": 10.7858,
+       "Length_m": 100,
+       "PK": "062+650",
+       "Province": "កំពត"
+    },
+    "628": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2249985,
+       "Y": 10.7849998,
+       "Length_m": 100,
+       "PK": "062+750",
+       "Province": "កំពត"
+    },
+    "629": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2249985,
+       "Y": 10.7842999,
+       "Length_m": 100,
+       "PK": "062+850",
+       "Province": "កំពត"
+    },
+    "630": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.223999,
+       "Y": 10.7835999,
+       "Length_m": 100,
+       "PK": "062+950",
+       "Province": "កំពត"
+    },
+    "631": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.223999,
+       "Y": 10.7828999,
+       "Length_m": 100,
+       "PK": "063+050",
+       "Province": "កំពត"
+    },
+    "632": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2229996,
+       "Y": 10.7820997,
+       "Length_m": 100,
+       "PK": "063+150",
+       "Province": "កំពត"
+    },
+    "633": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2229996,
+       "Y": 10.7812996,
+       "Length_m": 100,
+       "PK": "063+250",
+       "Province": "កំពត"
+    },
+    "634": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2220001,
+       "Y": 10.7805004,
+       "Length_m": 100,
+       "PK": "063+350",
+       "Province": "កំពត"
+    },
+    "635": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2220001,
+       "Y": 10.7796001,
+       "Length_m": 100,
+       "PK": "063+450",
+       "Province": "កំពត"
+    },
+    "636": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2220001,
+       "Y": 10.7786999,
+       "Length_m": 100,
+       "PK": "063+550",
+       "Province": "កំពត"
+    },
+    "637": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2220001,
+       "Y": 10.7777996,
+       "Length_m": 100,
+       "PK": "063+650",
+       "Province": "កំពត"
+    },
+    "638": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2220001,
+       "Y": 10.7769003,
+       "Length_m": 100,
+       "PK": "063+750",
+       "Province": "កំពត"
+    },
+    "639": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2220001,
+       "Y": 10.776,
+       "Length_m": 100,
+       "PK": "063+850",
+       "Province": "កំពត"
+    },
+    "640": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2220001,
+       "Y": 10.7751999,
+       "Length_m": 100,
+       "PK": "063+950",
+       "Province": "កំពត"
+    },
+    "641": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2220001,
+       "Y": 10.7742996,
+       "Length_m": 100,
+       "PK": "064+050",
+       "Province": "កំពត"
+    },
+    "642": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2229996,
+       "Y": 10.7734003,
+       "Length_m": 100,
+       "PK": "064+150",
+       "Province": "កំពត"
+    },
+    "643": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2229996,
+       "Y": 10.7729998,
+       "Length_m": 100,
+       "PK": "064+250",
+       "Province": "កំពត"
+    },
+    "644": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.223999,
+       "Y": 10.7729998,
+       "Length_m": 100,
+       "PK": "064+350",
+       "Province": "កំពត"
+    },
+    "645": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2249985,
+       "Y": 10.7730999,
+       "Length_m": 100,
+       "PK": "064+450",
+       "Province": "កំពត"
+    },
+    "646": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2259979,
+       "Y": 10.7733002,
+       "Length_m": 100,
+       "PK": "064+550",
+       "Province": "កំពត"
+    },
+    "647": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2269974,
+       "Y": 10.7735004,
+       "Length_m": 100,
+       "PK": "064+650",
+       "Province": "កំពត"
+    },
+    "648": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2279968,
+       "Y": 10.7736998,
+       "Length_m": 100,
+       "PK": "064+750",
+       "Province": "កំពត"
+    },
+    "649": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2289963,
+       "Y": 10.7736998,
+       "Length_m": 100,
+       "PK": "064+850",
+       "Province": "កំពត"
+    },
+    "650": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2289963,
+       "Y": 10.7729998,
+       "Length_m": 100,
+       "PK": "064+950",
+       "Province": "កំពត"
+    },
+    "651": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2300034,
+       "Y": 10.7721996,
+       "Length_m": 100,
+       "PK": "065+050",
+       "Province": "កំពត"
+    },
+    "652": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2300034,
+       "Y": 10.7714005,
+       "Length_m": 100,
+       "PK": "065+150",
+       "Province": "កំពត"
+    },
+    "653": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2310028,
+       "Y": 10.7707005,
+       "Length_m": 100,
+       "PK": "065+250",
+       "Province": "កំពត"
+    },
+    "654": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2310028,
+       "Y": 10.7699003,
+       "Length_m": 100,
+       "PK": "065+350",
+       "Province": "កំពត"
+    },
+    "655": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2310028,
+       "Y": 10.7691002,
+       "Length_m": 100,
+       "PK": "065+450",
+       "Province": "កំពត"
+    },
+    "656": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2320023,
+       "Y": 10.7681999,
+       "Length_m": 100,
+       "PK": "065+550",
+       "Province": "កំពត"
+    },
+    "657": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2320023,
+       "Y": 10.7672997,
+       "Length_m": 100,
+       "PK": "065+650",
+       "Province": "កំពត"
+    },
+    "658": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2320023,
+       "Y": 10.7664003,
+       "Length_m": 100,
+       "PK": "065+750",
+       "Province": "កំពត"
+    },
+    "659": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2320023,
+       "Y": 10.7655001,
+       "Length_m": 100,
+       "PK": "065+850",
+       "Province": "កំពត"
+    },
+    "660": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2320023,
+       "Y": 10.7645998,
+       "Length_m": 100,
+       "PK": "065+950",
+       "Province": "កំពត"
+    },
+    "661": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2320023,
+       "Y": 10.7636995,
+       "Length_m": 100,
+       "PK": "066+050",
+       "Province": "កំពត"
+    },
+    "662": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2330017,
+       "Y": 10.7628002,
+       "Length_m": 100,
+       "PK": "066+150",
+       "Province": "កំពត"
+    },
+    "663": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2330017,
+       "Y": 10.7620001,
+       "Length_m": 100,
+       "PK": "066+250",
+       "Province": "កំពត"
+    },
+    "664": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2330017,
+       "Y": 10.7610998,
+       "Length_m": 100,
+       "PK": "066+350",
+       "Province": "កំពត"
+    },
+    "665": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2330017,
+       "Y": 10.7601995,
+       "Length_m": 100,
+       "PK": "066+450",
+       "Province": "កំពត"
+    },
+    "666": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2330017,
+       "Y": 10.7593002,
+       "Length_m": 100,
+       "PK": "066+550",
+       "Province": "កំពត"
+    },
+    "667": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2340012,
+       "Y": 10.7584,
+       "Length_m": 100,
+       "PK": "066+650",
+       "Province": "កំពត"
+    },
+    "668": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2340012,
+       "Y": 10.7575998,
+       "Length_m": 100,
+       "PK": "066+750",
+       "Province": "កំពត"
+    },
+    "669": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2340012,
+       "Y": 10.7568998,
+       "Length_m": 100,
+       "PK": "066+850",
+       "Province": "កំពត"
+    },
+    "670": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2350006,
+       "Y": 10.7560997,
+       "Length_m": 100,
+       "PK": "066+950",
+       "Province": "កំពត"
+    },
+    "671": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2360001,
+       "Y": 10.7553997,
+       "Length_m": 100,
+       "PK": "067+050",
+       "Province": "កំពត"
+    },
+    "672": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2360001,
+       "Y": 10.7545996,
+       "Length_m": 100,
+       "PK": "067+150",
+       "Province": "កំពត"
+    },
+    "673": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2369995,
+       "Y": 10.7538996,
+       "Length_m": 100,
+       "PK": "067+250",
+       "Province": "កំពត"
+    },
+    "674": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2369995,
+       "Y": 10.7531996,
+       "Length_m": 100,
+       "PK": "067+350",
+       "Province": "កំពត"
+    },
+    "675": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.237999,
+       "Y": 10.7524996,
+       "Length_m": 100,
+       "PK": "067+450",
+       "Province": "កំពត"
+    },
+    "676": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.237999,
+       "Y": 10.7517996,
+       "Length_m": 100,
+       "PK": "067+550",
+       "Province": "កំពត"
+    },
+    "677": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2389984,
+       "Y": 10.7511997,
+       "Length_m": 100,
+       "PK": "067+650",
+       "Province": "កំពត"
+    },
+    "678": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2399979,
+       "Y": 10.7509003,
+       "Length_m": 100,
+       "PK": "067+750",
+       "Province": "កំពត"
+    },
+    "679": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2409973,
+       "Y": 10.7508001,
+       "Length_m": 100,
+       "PK": "067+850",
+       "Province": "កំពត"
+    },
+    "680": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2419968,
+       "Y": 10.7508001,
+       "Length_m": 100,
+       "PK": "067+950",
+       "Province": "កំពត"
+    },
+    "681": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2429962,
+       "Y": 10.7507,
+       "Length_m": 100,
+       "PK": "068+050",
+       "Province": "កំពត"
+    },
+    "682": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2429962,
+       "Y": 10.7504997,
+       "Length_m": 100,
+       "PK": "068+150",
+       "Province": "កំពត"
+    },
+    "683": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2440033,
+       "Y": 10.7503996,
+       "Length_m": 100,
+       "PK": "068+250",
+       "Province": "កំពត"
+    },
+    "684": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2450027,
+       "Y": 10.7503004,
+       "Length_m": 100,
+       "PK": "068+350",
+       "Province": "កំពត"
+    },
+    "685": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2460022,
+       "Y": 10.7503004,
+       "Length_m": 100,
+       "PK": "068+450",
+       "Province": "កំពត"
+    },
+    "686": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2470016,
+       "Y": 10.7502003,
+       "Length_m": 100,
+       "PK": "068+550",
+       "Province": "កំពត"
+    },
+    "687": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2480011,
+       "Y": 10.7501001,
+       "Length_m": 100,
+       "PK": "068+650",
+       "Province": "កំពត"
+    },
+    "688": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2490005,
+       "Y": 10.75,
+       "Length_m": 100,
+       "PK": "068+750",
+       "Province": "កំពត"
+    },
+    "689": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.25,
+       "Y": 10.7498999,
+       "Length_m": 100,
+       "PK": "068+850",
+       "Province": "កំពត"
+    },
+    "690": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2509995,
+       "Y": 10.7497997,
+       "Length_m": 100,
+       "PK": "068+950",
+       "Province": "កំពត"
+    },
+    "691": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2519989,
+       "Y": 10.7496996,
+       "Length_m": 100,
+       "PK": "069+050",
+       "Province": "កំពត"
+    },
+    "692": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2529984,
+       "Y": 10.7496004,
+       "Length_m": 100,
+       "PK": "069+150",
+       "Province": "កំពត"
+    },
+    "693": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2529984,
+       "Y": 10.7495003,
+       "Length_m": 100,
+       "PK": "069+250",
+       "Province": "កំពត"
+    },
+    "694": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2539978,
+       "Y": 10.7494001,
+       "Length_m": 100,
+       "PK": "069+350",
+       "Province": "កំពត"
+    },
+    "695": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2549973,
+       "Y": 10.7494001,
+       "Length_m": 100,
+       "PK": "069+450",
+       "Province": "កំពត"
+    },
+    "696": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2559967,
+       "Y": 10.7493,
+       "Length_m": 100,
+       "PK": "069+550",
+       "Province": "កំពត"
+    },
+    "697": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2570038,
+       "Y": 10.7491999,
+       "Length_m": 100,
+       "PK": "069+650",
+       "Province": "កំពត"
+    },
+    "698": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2580032,
+       "Y": 10.7490997,
+       "Length_m": 100,
+       "PK": "069+750",
+       "Province": "កំពត"
+    },
+    "699": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2590027,
+       "Y": 10.7489996,
+       "Length_m": 100,
+       "PK": "069+850",
+       "Province": "កំពត"
+    },
+    "700": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2600021,
+       "Y": 10.7489004,
+       "Length_m": 100,
+       "PK": "069+950",
+       "Province": "កំពត"
+    },
+    "701": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2610016,
+       "Y": 10.7488003,
+       "Length_m": 100,
+       "PK": "070+050",
+       "Province": "កំពត"
+    },
+    "702": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.262001,
+       "Y": 10.7487001,
+       "Length_m": 100,
+       "PK": "070+150",
+       "Province": "កំពត"
+    },
+    "703": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2630005,
+       "Y": 10.7486,
+       "Length_m": 100,
+       "PK": "070+250",
+       "Province": "កំពត"
+    },
+    "704": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2630005,
+       "Y": 10.7484999,
+       "Length_m": 100,
+       "PK": "070+350",
+       "Province": "កំពត"
+    },
+    "705": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2639999,
+       "Y": 10.7483997,
+       "Length_m": 100,
+       "PK": "070+450",
+       "Province": "កំពត"
+    },
+    "706": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2649994,
+       "Y": 10.7482004,
+       "Length_m": 100,
+       "PK": "070+550",
+       "Province": "កំពត"
+    },
+    "707": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2659988,
+       "Y": 10.7481003,
+       "Length_m": 100,
+       "PK": "070+650",
+       "Province": "កំពត"
+    },
+    "708": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2669983,
+       "Y": 10.7480001,
+       "Length_m": 100,
+       "PK": "070+750",
+       "Province": "កំពត"
+    },
+    "709": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2679977,
+       "Y": 10.7479,
+       "Length_m": 100,
+       "PK": "070+850",
+       "Province": "កំពត"
+    },
+    "710": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2689972,
+       "Y": 10.7477999,
+       "Length_m": 100,
+       "PK": "070+950",
+       "Province": "កំពត"
+    },
+    "711": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2699966,
+       "Y": 10.7475996,
+       "Length_m": 100,
+       "PK": "071+050",
+       "Province": "កំពត"
+    },
+    "712": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2710037,
+       "Y": 10.7475004,
+       "Length_m": 100,
+       "PK": "071+150",
+       "Province": "កំពត"
+    },
+    "713": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2720032,
+       "Y": 10.7474003,
+       "Length_m": 100,
+       "PK": "071+250",
+       "Province": "កំពត"
+    },
+    "714": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2720032,
+       "Y": 10.7473001,
+       "Length_m": 100,
+       "PK": "071+350",
+       "Province": "កំពត"
+    },
+    "715": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2730026,
+       "Y": 10.7472,
+       "Length_m": 100,
+       "PK": "071+450",
+       "Province": "កំពត"
+    },
+    "716": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2740021,
+       "Y": 10.7470999,
+       "Length_m": 100,
+       "PK": "071+550",
+       "Province": "កំពត"
+    },
+    "717": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2750015,
+       "Y": 10.7469997,
+       "Length_m": 100,
+       "PK": "071+650",
+       "Province": "កំពត"
+    },
+    "718": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.276001,
+       "Y": 10.7468996,
+       "Length_m": 100,
+       "PK": "071+750",
+       "Province": "កំពត"
+    },
+    "719": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2770004,
+       "Y": 10.7468004,
+       "Length_m": 100,
+       "PK": "071+850",
+       "Province": "កំពត"
+    },
+    "720": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2779999,
+       "Y": 10.7466002,
+       "Length_m": 100,
+       "PK": "071+950",
+       "Province": "កំពត"
+    },
+    "721": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2789993,
+       "Y": 10.7465,
+       "Length_m": 100,
+       "PK": "072+050",
+       "Province": "កំពត"
+    },
+    "722": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2799988,
+       "Y": 10.7463999,
+       "Length_m": 100,
+       "PK": "072+150",
+       "Province": "កំពត"
+    },
+    "723": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2809982,
+       "Y": 10.7461996,
+       "Length_m": 100,
+       "PK": "072+250",
+       "Province": "កំពត"
+    },
+    "724": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2819977,
+       "Y": 10.7461004,
+       "Length_m": 100,
+       "PK": "072+350",
+       "Province": "កំពត"
+    },
+    "725": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2819977,
+       "Y": 10.7460003,
+       "Length_m": 100,
+       "PK": "072+450",
+       "Province": "កំពត"
+    },
+    "726": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2829971,
+       "Y": 10.7458,
+       "Length_m": 100,
+       "PK": "072+550",
+       "Province": "កំពត"
+    },
+    "727": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2839966,
+       "Y": 10.7455997,
+       "Length_m": 100,
+       "PK": "072+650",
+       "Province": "កំពត"
+    },
+    "728": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2850037,
+       "Y": 10.7454996,
+       "Length_m": 100,
+       "PK": "072+750",
+       "Province": "កំពត"
+    },
+    "729": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2860031,
+       "Y": 10.7449999,
+       "Length_m": 100,
+       "PK": "072+850",
+       "Province": "កំពត"
+    },
+    "730": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2870026,
+       "Y": 10.7444,
+       "Length_m": 100,
+       "PK": "072+950",
+       "Province": "កំពត"
+    },
+    "731": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2870026,
+       "Y": 10.7435999,
+       "Length_m": 100,
+       "PK": "073+050",
+       "Province": "កំពត"
+    },
+    "732": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2870026,
+       "Y": 10.7427998,
+       "Length_m": 100,
+       "PK": "073+150",
+       "Province": "កំពត"
+    },
+    "733": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2870026,
+       "Y": 10.7419004,
+       "Length_m": 100,
+       "PK": "073+250",
+       "Province": "កំពត"
+    },
+    "734": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2870026,
+       "Y": 10.7410002,
+       "Length_m": 100,
+       "PK": "073+350",
+       "Province": "កំពត"
+    },
+    "735": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2870026,
+       "Y": 10.7400999,
+       "Length_m": 100,
+       "PK": "073+450",
+       "Province": "កំពត"
+    },
+    "736": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2870026,
+       "Y": 10.7391996,
+       "Length_m": 100,
+       "PK": "073+550",
+       "Province": "កំពត"
+    },
+    "737": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2870026,
+       "Y": 10.7383003,
+       "Length_m": 100,
+       "PK": "073+650",
+       "Province": "កំពត"
+    },
+    "738": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2870026,
+       "Y": 10.7374001,
+       "Length_m": 100,
+       "PK": "073+750",
+       "Province": "កំពត"
+    },
+    "739": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2860031,
+       "Y": 10.7364998,
+       "Length_m": 100,
+       "PK": "073+850",
+       "Province": "កំពត"
+    },
+    "740": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2860031,
+       "Y": 10.7356005,
+       "Length_m": 100,
+       "PK": "073+950",
+       "Province": "កំពត"
+    },
+    "741": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2860031,
+       "Y": 10.7347002,
+       "Length_m": 100,
+       "PK": "074+050",
+       "Province": "កំពត"
+    },
+    "742": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2860031,
+       "Y": 10.7337999,
+       "Length_m": 100,
+       "PK": "074+150",
+       "Province": "កំពត"
+    },
+    "743": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2860031,
+       "Y": 10.7328997,
+       "Length_m": 100,
+       "PK": "074+250",
+       "Province": "កំពត"
+    },
+    "744": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2860031,
+       "Y": 10.7320004,
+       "Length_m": 100,
+       "PK": "074+350",
+       "Province": "កំពត"
+    },
+    "745": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2860031,
+       "Y": 10.7311001,
+       "Length_m": 100,
+       "PK": "074+450",
+       "Province": "កំពត"
+    },
+    "746": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2850037,
+       "Y": 10.7301998,
+       "Length_m": 100,
+       "PK": "074+550",
+       "Province": "កំពត"
+    },
+    "747": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2850037,
+       "Y": 10.7292995,
+       "Length_m": 100,
+       "PK": "074+650",
+       "Province": "កំពត"
+    },
+    "748": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2850037,
+       "Y": 10.7285004,
+       "Length_m": 100,
+       "PK": "074+750",
+       "Province": "កំពត"
+    },
+    "749": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2850037,
+       "Y": 10.7276001,
+       "Length_m": 100,
+       "PK": "074+850",
+       "Province": "កំពត"
+    },
+    "750": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2850037,
+       "Y": 10.7266998,
+       "Length_m": 100,
+       "PK": "074+950",
+       "Province": "កំពត"
+    },
+    "751": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2850037,
+       "Y": 10.7257996,
+       "Length_m": 100,
+       "PK": "075+050",
+       "Province": "កំពត"
+    },
+    "752": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2839966,
+       "Y": 10.7249002,
+       "Length_m": 100,
+       "PK": "075+150",
+       "Province": "កំពត"
+    },
+    "753": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2839966,
+       "Y": 10.724,
+       "Length_m": 100,
+       "PK": "075+250",
+       "Province": "កំពត"
+    },
+    "754": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2839966,
+       "Y": 10.7230997,
+       "Length_m": 100,
+       "PK": "075+350",
+       "Province": "កំពត"
+    },
+    "755": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2839966,
+       "Y": 10.7222004,
+       "Length_m": 100,
+       "PK": "075+450",
+       "Province": "កំពត"
+    },
+    "756": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2839966,
+       "Y": 10.7214003,
+       "Length_m": 100,
+       "PK": "075+550",
+       "Province": "កំពត"
+    },
+    "757": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2839966,
+       "Y": 10.7206001,
+       "Length_m": 100,
+       "PK": "075+650",
+       "Province": "កំពត"
+    },
+    "758": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2850037,
+       "Y": 10.7198,
+       "Length_m": 100,
+       "PK": "075+750",
+       "Province": "កំពត"
+    },
+    "759": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2850037,
+       "Y": 10.7189999,
+       "Length_m": 100,
+       "PK": "075+850",
+       "Province": "កំពត"
+    },
+    "760": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2860031,
+       "Y": 10.7181997,
+       "Length_m": 100,
+       "PK": "075+950",
+       "Province": "កំពត"
+    },
+    "761": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2860031,
+       "Y": 10.7173996,
+       "Length_m": 100,
+       "PK": "076+050",
+       "Province": "កំពត"
+    },
+    "762": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.2870026,
+       "Y": 10.7166996,
+       "Length_m": 100,
+       "PK": "076+150",
+       "Province": "កំពត"
+    },
+    "763": {
+       "Road Number": 43,
+       "Start Point": "",
+       "End Point": "",
+       "X": 104.288002,
+       "Y": 10.7151003,
+       "Length_m": 84,
+       "PK": "076+350",
+       "Province": "កំពត"
+    }
+ }
