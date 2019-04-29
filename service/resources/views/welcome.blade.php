@@ -70,7 +70,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    RoadCare API V 1.0
+                    Let Travel API v1.0
                 </div>
             </div>
             

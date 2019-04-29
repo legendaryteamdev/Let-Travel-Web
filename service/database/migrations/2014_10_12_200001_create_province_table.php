@@ -4,7 +4,7 @@ use Illuminate\Support\Facades\Schema;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Database\Migrations\Migration;
 
-class CreateSettingTable extends Migration
+class CreateProvinceTable extends Migration
 {
     /**
      * Run the migrations.
@@ -13,10 +13,10 @@ class CreateSettingTable extends Migration
      */
     public function up()
     {
-        Schema::create('setting', function (Blueprint $table) {
+        Schema::create('province', function (Blueprint $table) {
             $table->increments('id', 11);
-            $table->string('setting', 50)->default('');
-            $table->string('value', 50)->default('');
+            $table->string('Kh_name', 50)->default('');
+            $table->string('en_name', 50)->default('');
 
         });
     }
@@ -28,6 +28,6 @@ class CreateSettingTable extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('setting');
+        Schema::dropIfExists('province');
     }
 }

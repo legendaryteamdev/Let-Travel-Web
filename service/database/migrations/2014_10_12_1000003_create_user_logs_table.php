@@ -14,17 +14,14 @@ class CreateUserLogsTable extends Migration
     public function up()
     {
         Schema::create('user_logs', function (Blueprint $table) {
-            $table->increments('id', 11);
-            
+            $table->increments('id');
             $table->integer('user_id')->unsigned()->index()->nullable();
-            $table->foreign('user_id')->references('id')->on('user')->onDelete('cascade');
-
-            $table->string('ip', 50)->nullable();
-            $table->string('os', 50)->nullable(); //Window, 
-            $table->string('tool', 50)->nullable(); //android-app, ios-app, chrom, ...
-            $table->string('version', 50)->nullable();
-
+            $table->ipAddress('ip', 20);
+            $table->string('os', 50);
+            $table->string('broswer', 50);
+            $table->string('version', 50);
             $table->timestamps();
+            $table->foreign('user_id')->references('id')->on('users')->onDelete('cascade');
         });
     }
 

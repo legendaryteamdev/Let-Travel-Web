@@ -4,7 +4,7 @@ use Illuminate\Support\Facades\Schema;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Database\Migrations\Migration;
 
-class CreateRoadsTypeTable extends Migration
+class CreatePasswordResetsTable extends Migration
 {
     /**
      * Run the migrations.
@@ -13,11 +13,10 @@ class CreateRoadsTypeTable extends Migration
      */
     public function up()
     {
-        Schema::create('roads_type', function (Blueprint $table) {
-            $table->increments('id', 11);
-            $table->string('name', 150)->default('');
-            $table->timestamps();
-            $table->softDeletes();
+        Schema::create('password_resets', function (Blueprint $table) {
+            $table->string('email', 50)->index();
+            $table->string('token');
+            $table->timestamp('created_at')->nullable();
         });
     }
 
@@ -28,6 +27,6 @@ class CreateRoadsTypeTable extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('roads_type');
+        Schema::dropIfExists('password_resets');
     }
 }

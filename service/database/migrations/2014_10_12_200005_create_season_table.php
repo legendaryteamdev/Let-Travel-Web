@@ -4,7 +4,7 @@ use Illuminate\Support\Facades\Schema;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Database\Migrations\Migration;
 
-class CreateMinistryTable extends Migration
+class CreateSeasonTable extends Migration
 {
     /**
      * Run the migrations.
@@ -13,13 +13,16 @@ class CreateMinistryTable extends Migration
      */
     public function up()
     {
-        Schema::create('ministry', function (Blueprint $table) {
+        Schema::create('season', function (Blueprint $table) {
             $table->increments('id', 11);
-            $table->string('name', 150)->default('');
-            $table->string('abbre', 150)->default('');
-            $table->string('logo', 150)->default('');
-            $table->longText('description')->nullable();
 
+            $table->string('kh_name', 150)->default('');
+            $table->string('en_name', 150)->default('');
+            
+
+            $table->integer('creator_id')->unsigned()->nullable();
+            $table->integer('updater_id')->unsigned()->nullable();
+            $table->integer('deleter_id')->unsigned()->nullable();
             $table->timestamps();
             $table->softDeletes();
         });
@@ -32,6 +35,6 @@ class CreateMinistryTable extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('ministry');
+        Schema::dropIfExists('season');
     }
 }
