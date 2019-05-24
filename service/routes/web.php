@@ -12,6 +12,11 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('frontend.home');
 });
 
+Route::group(['namespace' => 'Frontend'], function () {
+
+	require(__DIR__.'/frontend/main.php');
+
+});
