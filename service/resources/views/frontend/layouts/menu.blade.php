@@ -14,19 +14,14 @@
                             <ul>
                                 <li><a href="{{ route('home')}}" class="active">home</a></li>
                                 <li><a href="{{ route('about-us')}}">about</a></li>
-                                <li class="dropdown"><a href="javascript:;">event</a>
-                                    <ul class="sub-menu">
+                                <li><a href="{{ route('resort')}}">resort</a>
+                                    {{-- <ul class="sub-menu">
                                         <li><a href="event.html">event</a></li>
                                         <li><a href="event_single.html">event single</a></li>
-                                    </ul>
+                                    </ul> --}}
                                 </li>
-                                <li class="dropdown"><a href="javascript:;">blog</a>
-                                    <ul class="sub-menu">
-                                        <li><a href="blog.html">blog</a></li>
-                                        <li><a href="blog_single.html">blog single</a></li>
-                                    </ul>
-                                </li>
-                                <li class="dropdown"><a href="javascript:;">pages</a>
+                                <li><a href="{{ route('province')}}">province</a></li>
+                                {{-- <li class="dropdown"><a href="javascript:;">pages</a>
                                     <ul class="sub-menu">
                                         <li><a href="shop.html">shop</a></li>
                                         <li><a href="shop_single.html">shop single</a></li>
@@ -34,8 +29,8 @@
                                         <li><a href="checkout.html">checkout</a></li>
                                         <li><a href="404.html">404</a></li>
                                     </ul>
-                                </li>
-                                <li><a href="gallery.html">gallery</a></li>
+                                </li> --}}
+                                {{-- <li><a href="gallery.html">gallery</a></li> --}}
                                 <li><a href="{{ route('contact-us')}}">contact us</a></li>
                             </ul>
                         </nav>
@@ -46,7 +41,7 @@
                 </div>
             </div>
         </div>
-    </div>
+</div>
     <!-- search section -->
     <div class="cy_search_form">
         <button class="search_close"><i class="fa fa-times"></i></button>

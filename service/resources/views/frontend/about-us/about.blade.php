@@ -1,6 +1,18 @@
 @extends('frontend.layouts.master')
 
 @section('content')
+
+    <!--Banner section start-->
+    <div class="cy_bread_wrapper">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 col-md-12">
+                    <h1>about us</h1>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <!--About section start-->
     <div class="cy_about_wrapper cy_about_page">
             <div class="container">

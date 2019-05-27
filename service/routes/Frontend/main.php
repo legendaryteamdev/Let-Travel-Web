@@ -4,5 +4,6 @@ Route::get('/home', 								[ 'as' => 'home',						'uses' => 'HomeController@ind
 
 Route::get('/about-us', 			[ 'as' => 'about-us',			'uses' => 'AboutUsController@index']);
 Route::get('/contact-us', 		[ 'as' => 'contact-us',		'uses' => 'ContactUsController@index']);
-// Route::get('/about-us/message-from-minister', 		[ 'as' => 'message-from-minister',		'uses' => 'AboutUsController@messageFromMinister']);
-// Route::get('/about-us/organization-chart', 			[ 'as' => 'organization-chart',		'uses' => 'AboutUsController@orgainizationChart']);
+Route::get('/resort', 		[ 'as' => 'resort',		'uses' => 'ResortController@index']);
+Route::get('/province', 			[ 'as' => 'province',		'uses' => 'ProvinceController@index']);
+Route::get('/resort/resort-detail', 			[ 'as' => 'resort-detail',		'uses' => 'ResortDetailController@index']);

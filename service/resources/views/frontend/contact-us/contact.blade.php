@@ -2,7 +2,16 @@
 
 @section('content')
 
-
+    <!--Banner section start-->
+    <div class="cy_bread_wrapper">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 col-md-12">
+                    <h1>contact</h1>
+                </div>
+            </div>
+        </div>
+    </div>
     <!--Contact section start-->
     <div class="cy_contact_wrapper">
         <div class="container">

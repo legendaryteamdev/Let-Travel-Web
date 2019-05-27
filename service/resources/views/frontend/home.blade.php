@@ -1,6 +1,7 @@
 @extends('frontend.layouts.master')
 @section('content')
 
+
 <!--Banner section start-->
 <div class="cy_banner_wrapper">
         <div class="container-fluid">

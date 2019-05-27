@@ -39,9 +39,77 @@ Author: Kamleshyadav
     <link href="{{ asset('public/theme/js/plugin/revolution/css/layers.css') }}" rel="stylesheet" type="text/css">
     <link href="{{ asset('public/theme/js/plugin/revolution/css/navigation.css') }}" rel="stylesheet" type="text/css">
     <link rel="stylesheet" href="{{ asset('public/theme/css/style.css') }}">
+    <link rel="stylesheet" href="{{ asset('public/theme/css/frontend.css') }}">
 </head>
 <body>
     
+    <div class="cy_top_wrapper">
+        <div class="cy_top_info">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12 col-md-12">
+                        <div class="cy_top_detail">
+                            <ul>
+                                <li><a href="#">EMAIL: Info@yourmail.com</a></li>
+                                <li>PHONE: 18009001010</li>
+                                <li>
+                                    <ul>
+                                        <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-tumblr" aria-hidden="true"></i></a></li>
+                                    </ul>
+                                </li>
+                                <li class="cart"><a href="#"><i class="fa fa-shopping-cart" aria-hidden="true"></i>
+                                    <span>2</span></a>
+                                    <ul class="cart_box">
+                                        <li>
+                                            <div class="cart_section">
+                                                <div class="cart_img">
+                                                    <a href="#"><img src="images/cart/1.jpg" alt="cart" class="img-fluid"></a>
+                                                </div>
+                                                <div class="cart_detail">
+                                                    <h4><a href="cart.html">Road Bicycle</a></h4>
+                                                    <h5>$2200</h5>
+                                                </div>
+                                                <a class="cart_delete"><i class="fa fa-times" aria-hidden="true"></i></a>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="cart_section">
+                                                <div class="cart_img">
+                                                    <a href="#"><img src="images/cart/2.jpg" alt="cart" class="img-fluid"></a>
+                                                </div>
+                                                <div class="cart_detail">
+                                                    <h4><a href="cart.html">Road Bicycle</a></h4>
+                                                    <h5>$2500</h5>
+                                                </div>
+                                                <a class="cart_delete"><i class="fa fa-times" aria-hidden="true"></i></a>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="cart_section">
+                                                <div class="cart_total">
+                                                    <h4>Total<span>$4700</span></h4>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="cart_section">
+                                                <a href="cart.html" class="cy_button">view cart</a>
+                                                <a href="checkout.html" class="cy_button">Checkout</a>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 
     @include('frontend.layouts.menu')
     @yield('content')

@@ -1,0 +1,18 @@
+.cy_province_wrapper {
+    background-image: url(../images/angkor-wat1.jpg);
+    background-size: cover;
+    position: relative;
+    padding: 170px 0px 90px;
+}
+.cy_about_wrapper.cy_about_page {
+    padding-bottom: 91px;
+}
+.cy_province_wrapper h1 {
+    font-size: 50px;
+    text-transform: uppercase;
+    color: #ffffff;
+    margin: 0px;
+    display: inline-block;
+    font-weight: 800;
+    text-shadow: 0px 2px 10px rgba(0, 0, 0, 0.2);
+}
