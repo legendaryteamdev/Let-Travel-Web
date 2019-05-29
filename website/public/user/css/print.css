@@ -1,0 +1,59 @@
+.my_table tr td{
+    font-size:  15px;
+    padding:20px;
+}
+.my_table{
+    margin-top:5px;
+    width:100%;
+    border:1px solid rgba(83, 89, 101, 0.27);
+}
+.my_table_short{
+
+}
+.my_table_short tr td{
+        padding:10px;
+        
+}
+.header_property{
+    
+}
+.margin10{
+   margin-top: 40px;
+}
+.my_hr{
+    padding-left:10px;
+    padding-right:10px;
+}
+.info_header h4{
+    margin:3px;
+}
+.right_detail ul li{
+    list-style: none;
+    font-size: 14px;
+}
+.right_detail ul{
+    padding:5px;
+}
+.my_padding5{
+    padding:5px;
+}
+.float_right{
+    float:right;
+}
+.float_left{
+    float:left;
+}
+.wrap_header{
+    border:1px solid rgba(83, 89, 101, 0.27);
+    padding-top: 15px;
+}
+.my_padding10{
+    padding:15px;
+}
+.footer{
+    margin-top:40px;
+    margin-bottom: 50px;
+}
+body,a,p,h1,h2,h3,h4,h5,h6 {
+        font-family: 'Rubik', sans-serif;
+}
