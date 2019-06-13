@@ -70,7 +70,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Let Travel API v1.0 Release V-1
+                    Let Travel API v1.0 Release V-1 Combination
                 </div>
             </div>
             
